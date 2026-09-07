@@ -7,6 +7,8 @@
 ## Genomic Imprinting
   Imprinted genes are expressed from only one parental allele. Only one copy out of two is expressed. DNA methylation marks determines which copy is expressed. Unmethylated allele expresses; unmethylated allele gets silenced. Each imprinted domain in chromosome regions is controlled by one or more indenpendent imprinted genes that regulate target expression in *cis* within the domain.
 <img width="800" height="230" alt="image" src="https://github.com/user-attachments/assets/51860a09-2f33-4591-89f3-dae9e0ce77d5" />
+<img width="500" height="245" alt="image" src="https://github.com/user-attachments/assets/482c93ef-22ee-4698-b8d9-df709106c3be" />
+
 > As the image shows above, in *cis* regulation works on the same gene, affecting only the linked allele (eg.promoters,enhancers,operators), whereas in *trans* the regulation happens intermolecularly, and can affect both alleles equally (eg.TFs, repressors).
 
   An imprinting center (IC) is a apecialized DNA region that controls parent-specific gene expression and epigenetic marks across genes. It basically switch on/off to decide whether inherited gene is active/silenced.
