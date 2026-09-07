@@ -30,26 +30,27 @@
   > BRCA1-related breast/ovarian cancer syndrome
 * **Locus heterogeneity**: Mutations in different genes that cause same or similar phenotype
   > Charcot-Marie-Tooth disease
+  > 
   > <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/6ca747f1-9601-494c-96c0-76903442e5d3" />
   > <img width="500" height="310" alt="image" src="https://github.com/user-attachments/assets/1d4328e3-56f5-4585-9af4-b6a37ea88ee3" />
   > <img width="761" height="652" alt="image" src="https://github.com/user-attachments/assets/bc66520b-2c97-4ecd-a2e8-0bb4239bb7de" />
 
 * **Penetrance/non-penetrance(conditional probability)**: Percentage of people show symptoms / people with mutation
-  > Marfan syndrome, Lynch syndrome
-  > 
+  > * Marfan syndrome, Lynch syndrome
   > <img width="395" height="225" alt="image" src="https://github.com/user-attachments/assets/e23ebbd8-e535-4fc3-ab8f-197191195f1d" />
   > <img width="570" height="300" alt="image" src="https://github.com/user-attachments/assets/87590805-c5a3-4f5b-8079-efa9f8a6b496" />
   > <img width="390" height="300" alt="image" src="https://github.com/user-attachments/assets/165f8c42-70f0-46c8-b7eb-c5bc8a4c7f53" />
+  >
   > * (To explain this pedigree, the parents who did not carry the disease has shown syndrome of severe slightednedd, which means they carried variant that passes to child and the child shows symptoms)
-
   > * *Dominant negative:* the mutant protein activity blocks the function of wild-type protein within same cell.
   > * *Haploinsufficiency:* only one functional copy of a gene is not enough to maintain health, and cause dominant disease. (one copy of gene has loss-of-function mutation, and the production of protein amount is cut in half, but cell needs more than 50% to function properly)
 * **Variable expressivity(volume)**: Range of expression of the symptoms. Always penetrant but varies in severeity
-  > Neurofibromatosis type 1(神经纤维瘤)
+  > * Neurofibromatosis type 1(神经纤维瘤)
   > 
   > <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/7a269247-ce6b-4466-9ad9-a76397a0eb21" />
   > <img width="390" height="250" alt="image" src="https://github.com/user-attachments/assets/f3031298-e323-48a3-ac23-b9492565e5ea" />
   > <img width="550" height="430" alt="image" src="https://github.com/user-attachments/assets/b38cf5bb-1dc5-43d3-a347-86c14c8945d3" />
+  >
   > * On the right side the pedigree shows *de novo* mutation
 * **Pleiotropy**: Single gene causing multiple phenotypic effects
   > CHARGE syndrome(Coloboma of eye(hole in eye), Heart defects, Atresia choanae(nasal block), Retardation of growth, Genital abnormality, Ear abnormality)
@@ -73,7 +74,6 @@ ___
 * Male and female equal risk
 * Male to male tranmission occurs
 * A child of one affected parents have 50% chance to inherit the trait
-* 
   > <img width="205" height="259" alt="image" src="https://github.com/user-attachments/assets/40078779-91e2-4179-b4b1-092176461bee" />
 
 ___
@@ -112,16 +112,15 @@ ___
 * ≥2 primary cancer diagnosis in same individual
 * Certain rare cancer/tumor (ovary/pancreas)
 * Other features associated with hereditary cancer syndromes
-* 
-  <img width="360" height="220" alt="image" src="https://github.com/user-attachments/assets/fc58349b-e646-4fe0-8632-b626ca6a5ea7" />
+ <img width="360" height="220" alt="image" src="https://github.com/user-attachments/assets/fc58349b-e646-4fe0-8632-b626ca6a5ea7" />
 
 ___
 ## VUS(variant of uncertain significance)
-> <img width="600" height="260" alt="image" src="https://github.com/user-attachments/assets/13bc2128-0d15-4e17-9a77-07e2b034f197" />
+<img width="600" height="260" alt="image" src="https://github.com/user-attachments/assets/13bc2128-0d15-4e17-9a77-07e2b034f197" />
 
 * Types of variants:
-* 
-* <img width="731" height="361" alt="image" src="https://github.com/user-attachments/assets/4fd37e05-0b80-457a-b190-52396fb7da88" />
+  
+  <img width="731" height="361" alt="image" src="https://github.com/user-attachments/assets/4fd37e05-0b80-457a-b190-52396fb7da88" />
 
 ## ACMG Variant Vlassification
 <img width="1000" height="760" alt="image" src="https://github.com/user-attachments/assets/2324bc51-d829-4239-baa2-2c0c1a5f7e3e" />
@@ -144,11 +143,11 @@ ___
 
 ### Syndrome Management
 * Increased Surveillance
-* 
-* <img width="581" height="236" alt="image" src="https://github.com/user-attachments/assets/b536feef-5c27-4c0c-9a89-65fe9887dbc9" />
+<img width="581" height="236" alt="image" src="https://github.com/user-attachments/assets/b536feef-5c27-4c0c-9a89-65fe9887dbc9" />
+
 * > For women:
   > 
-* > <img width="578" height="277" alt="image" src="https://github.com/user-attachments/assets/a16361de-9a82-47a7-bee8-dc03f7d8b14d" />
+  > <img width="578" height="277" alt="image" src="https://github.com/user-attachments/assets/a16361de-9a82-47a7-bee8-dc03f7d8b14d" />
 * > For men:
   > 
   > <img width="580" height="301" alt="image" src="https://github.com/user-attachments/assets/0c3ac65a-5896-4cef-a0a7-ffb4b1f7d7c5" />
