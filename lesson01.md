@@ -36,6 +36,7 @@
 
 * **Penetrance/non-penetrance(conditional probability)**: Percentage of people show symptoms / people with mutation
   > Marfan syndrome, Lynch syndrome
+  > 
   > <img width="395" height="225" alt="image" src="https://github.com/user-attachments/assets/e23ebbd8-e535-4fc3-ab8f-197191195f1d" />
   > <img width="570" height="300" alt="image" src="https://github.com/user-attachments/assets/87590805-c5a3-4f5b-8079-efa9f8a6b496" />
   > <img width="390" height="300" alt="image" src="https://github.com/user-attachments/assets/165f8c42-70f0-46c8-b7eb-c5bc8a4c7f53" />
@@ -45,6 +46,7 @@
   > * *Haploinsufficiency:* only one functional copy of a gene is not enough to maintain health, and cause dominant disease. (one copy of gene has loss-of-function mutation, and the production of protein amount is cut in half, but cell needs more than 50% to function properly)
 * **Variable expressivity(volume)**: Range of expression of the symptoms. Always penetrant but varies in severeity
   > Neurofibromatosis type 1(神经纤维瘤)
+  > 
   > <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/7a269247-ce6b-4466-9ad9-a76397a0eb21" />
   > <img width="390" height="250" alt="image" src="https://github.com/user-attachments/assets/f3031298-e323-48a3-ac23-b9492565e5ea" />
   > <img width="550" height="430" alt="image" src="https://github.com/user-attachments/assets/b38cf5bb-1dc5-43d3-a347-86c14c8945d3" />
@@ -54,11 +56,13 @@
 * **New mutation(*de novo* mutation)**: Sporadic occurance. Neither parents present the mutation
   > Achondroplasia(软骨发育不全)
   > (higher risk within advanced age mother)
+  > 
   > <img width="460" height="300" alt="image" src="https://github.com/user-attachments/assets/87a66ac4-1b33-4941-968c-e6ec81998be4" />
   > <img width="350" height="230" alt="image" src="https://github.com/user-attachments/assets/4cf54be5-21cb-4a34-8c76-0b98fc65304f" />
 
 * **Anticipation**: Signs and symptoms of a genetic condition become more severe and develop earlier as condition passing to each generation
   > Huntintong disease
+  > 
   > <img width="598" height="384" alt="image" src="https://github.com/user-attachments/assets/a64f017f-0262-47c1-bc8a-f82f062e8842" />
   > <img width="596" height="345" alt="image" src="https://github.com/user-attachments/assets/3a22c853-244e-4f13-94e1-7f9e01c5aee0" />
   > <img width="479" height="377" alt="image" src="https://github.com/user-attachments/assets/bae401cd-d6e0-4a13-84fb-cfa4cad1bea7" />
@@ -69,6 +73,7 @@ ___
 * Male and female equal risk
 * Male to male tranmission occurs
 * A child of one affected parents have 50% chance to inherit the trait
+* 
   > <img width="205" height="259" alt="image" src="https://github.com/user-attachments/assets/40078779-91e2-4179-b4b1-092176461bee" />
 
 ___
@@ -107,12 +112,15 @@ ___
 * ≥2 primary cancer diagnosis in same individual
 * Certain rare cancer/tumor (ovary/pancreas)
 * Other features associated with hereditary cancer syndromes
+* 
   <img width="360" height="220" alt="image" src="https://github.com/user-attachments/assets/fc58349b-e646-4fe0-8632-b626ca6a5ea7" />
 
 ___
 ## VUS(variant of uncertain significance)
 > <img width="600" height="260" alt="image" src="https://github.com/user-attachments/assets/13bc2128-0d15-4e17-9a77-07e2b034f197" />
+
 * Types of variants:
+* 
 * <img width="731" height="361" alt="image" src="https://github.com/user-attachments/assets/4fd37e05-0b80-457a-b190-52396fb7da88" />
 
 ## ACMG Variant Vlassification
@@ -136,10 +144,13 @@ ___
 
 ### Syndrome Management
 * Increased Surveillance
+* 
 * <img width="581" height="236" alt="image" src="https://github.com/user-attachments/assets/b536feef-5c27-4c0c-9a89-65fe9887dbc9" />
 * > For women:
+  > 
 * > <img width="578" height="277" alt="image" src="https://github.com/user-attachments/assets/a16361de-9a82-47a7-bee8-dc03f7d8b14d" />
 * > For men:
+  > 
   > <img width="580" height="301" alt="image" src="https://github.com/user-attachments/assets/0c3ac65a-5896-4cef-a0a7-ffb4b1f7d7c5" />
 * Chemoprevention
 * > Tamoxifen (serious side effects)
