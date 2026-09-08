@@ -105,7 +105,8 @@ ___
 * Incomplete family history
 * Inability to document diagnoses or incomplete relatives' genetc test result
 * Preponderance of males (for breast cancer, men have much less risk, so BRCA mutation can be harder to track if family have little to no female relatives)
-___
+
+---
 ## Red flags
 * Cancer diagnosed under 50 yo
 * Multiple close relatives with same/related cancers
@@ -124,9 +125,12 @@ ___
 
 ## ACMG Variant Vlassification
 <img width="1000" height="760" alt="image" src="https://github.com/user-attachments/assets/2324bc51-d829-4239-baa2-2c0c1a5f7e3e" />
-___
+
+---
 ## BRCA1/2
+
 ### Breast Cancer Risk Factors
+
 * Hormones
 * > HRT, early menarche, late menopause
   > Age at first childbirth
