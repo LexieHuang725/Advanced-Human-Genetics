@@ -15,3 +15,7 @@
 Sandra Jones:
 * First cancer
 * asking for manapause
+* if taking estrogen pills
+* occupations, tobacco use
+* asking if she wants to take multiple genetic panels not just for BRCA
+* tyoe of insurance and resources she wants
