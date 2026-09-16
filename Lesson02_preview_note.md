@@ -244,3 +244,23 @@ Consequently, the proportion of HbA₂ increases, commonly to greater than 3.5%,
 
 <img width="344" height="529" alt="image" src="https://github.com/user-attachments/assets/9cc840f9-c5da-40f8-81df-d46e6978e7aa" />
 
+## Hardy-Weinberg
+There are two equations necessary to solve a Hardy-Weinberg Equilibrium question:
+
+${𝑝𝑝 + 𝑞𝑞 = 1}$
+
+${𝑝𝑝² + 2𝑝𝑝 + 𝑞𝑞² = 1}$
+
+𝑝𝑝 is the frequency of the dominant allele.
+
+𝑞𝑞 is the frequency of the recessive allele.}$
+
+𝑝𝑝² is the frequency of individuals with the homozygous dominant genotype.
+
+2𝑝𝑝 is the frequency of individuals with the heterozygous genotype.
+
+𝑞𝑞² is the frequency of individuals with the homozygous recessive genotype.
+
+To know if a population is in Hardy-Weinberg Equilibrium scientists have to observe at least two
+generations. If the allele frequencies are the same for both generations then the population is
+in Hardy-Weinberg Equilibrium.
