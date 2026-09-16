@@ -8,6 +8,7 @@
 <img width="672" height="243" alt="image" src="https://github.com/user-attachments/assets/9477c4c8-342d-4687-9bb7-76fe90d5a57c" />
 
 <img width="457" height="363" alt="image" src="https://github.com/user-attachments/assets/8c4d29c4-1171-4300-aebd-ea55eef996ef" />
+
 recessive trait: the loss of function of one of the two copies of a gene is without major consequence. But the loss of function of both copy causesa problem
 
 ## Terms
@@ -106,6 +107,7 @@ $${F=r/2}$$
 
 ## Beta globin gene cluster - chromosome 11
 <img width="811" height="371" alt="image" src="https://github.com/user-attachments/assets/323ca553-e7de-4ac8-ae60-bde5783e695c" />
+
 * different genes in beta gene clusters are expressed at different times in development, called "globin switching"
   * expression is due to the locus control region(LCR)
 
@@ -114,13 +116,13 @@ $${F=r/2}$$
 
 * Normal adult:
   * Hb A: 96-98%
-  * Hb A<sub>2<\sub>: <2-3%
+  * Hb A<sub>2</sub>: <2-3%
   * Hb F: 1-2%
 
 Wide range of mutation types leading to reduced levels of $\beta$-globin gene expression from affected chromosome
   * often point mutation (vs. large deletions more common in alpha globin cluster)
-  * $\beta$<sup>0<\sup>: complete absence of $\beta$-globin
-  * $\beta$<sup>+<\sup>: reduced but detectable $\beta$-globin
+  * $\beta$<sup>0</sup>: complete absence of $\beta$-globin
+  * $\beta$<sup>+</sup>: reduced but detectable $\beta$-globin
 
 Heterozygotes (aka thal minor/trait) usually unaffected
   * or mild anemia, often confused with iron deficiency
@@ -140,14 +142,16 @@ Homozygous (or compound heterozygous) state:
   
 ## Alpha globin gene cluster - chromosome 16
 <img width="529" height="174" alt="image" src="https://github.com/user-attachments/assets/1ddc56bb-3e12-4315-97f9-388776d1b505" />
+
 * 2 alpha genes on chromosome 16 = 4 alpha genes in human genome
 * typically, muations in alpha are large deletions of entire gene
 * number of inactive alpha genes corresponds with disease severity
 
 ### Alpha Thalassemia
 <img width="663" height="704" alt="image" src="https://github.com/user-attachments/assets/467a2f5f-fcc2-450c-a43f-3ba8a788fc27" />
+
 > second column, on the left: in trans mutation
->                on the right: in cis mutation
+> / on the right: in cis mutation
 
 ### Alpha Thalassemia - Cis
 <img width="681" height="606" alt="image" src="https://github.com/user-attachments/assets/2b3dc58b-b3a0-436f-9252-535107d25a11" />
@@ -196,7 +200,7 @@ $\beta$<sup>+</sup>: reduced beta chain but not complete absence
 
 ### Screening for carriers of Hemoglobinnopathies
 * any pregnant person is recommended to test mean corpuscular volume(MCV): measure the size of red blood cells
-  - 80-100 um<sup>3</sup> is normal, MCV < 80 warrants further testing
+  - 80-100 μm<sup>3</sup> is normal, MCV < 80 warrants further testing
   - differential includes iron deficiancy, beta thal trait, alpha thal trait
 * serum ferritin studies
 * Hb electrophoresis: separate the molecules based on size and charge
@@ -206,16 +210,16 @@ $\beta$<sup>+</sup>: reduced beta chain but not complete absence
     - b/c delta tries to make up for the beta deficiency
 > | Hemoglobin | Globin chains        | Normal adult proportion |
 > | ---------- | -------------------- | ----------------------: |
-> | HbA        | \(\alpha_2\beta_2\)  |                 ~95–98% |
-> | HbA₂       | \(\alpha_2\delta_2\) |                 ~2–3.5% |
-> | HbF        | \(\alpha_2\gamma_2\) |                     <1% |
+> | HbA        | $\alpha$<sub>2</sub>$\beta$<sub>2</sub>  |               ~95–98% |
+> | HbA₂       | $\alpha$<sub>2</sub>$\delta$<sub>2</sub> |                 ~2–3.5% |
+> | HbF        | $\alpha$<sub>2</sub>$\gamma$<sub>2</sub> |                     <1% |
 >
 
 Alpha-thalassemia trait: 
 
 Alpha-thalassemia reduces production of alpha chains. But all three major hemoglobins require alpha chains:
 
-$${HbA_2=\alpha_2\beta\_2} $$
+$${HbA=\alpha_2\beta\_2} $$
 $$ {HbA_2=\alpha_2\delta_2} $$
 $$ {HbF=\alpha_2\gamma_2} $$
 
@@ -225,7 +229,7 @@ This does not mean hemoglobin production is completely normal. The patient can s
 * microcytosis: low MCV;
 * small, pale red blood cells;
 * mild anemia.
-* There are exceptions: newborns may have detectable Hb Bart’s ($\gamma<sub>4</sub>), and more severe alpha-thalassemia can produce HbH ($\beta<sub>4</sub>).
+* There are exceptions: newborns may have detectable Hb Bart’s ($\gamma$<sub>4</sub>), and more severe alpha-thalassemia can produce HbH ($\beta$<sub>4</sub>).
 
 Beta-thalassemia trait:
 Beta-thalassemia reduces production of beta chains. Therefore, less HbA can be formed:
