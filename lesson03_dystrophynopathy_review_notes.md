@@ -478,6 +478,9 @@ The testing strategy should match the clinical indication:
 | Isolated cardiomyopathy     | Cardiomyopathy panel that includes DMD                                                  |
 | Known familial variant      | Targeted testing for that exact variant                                                 |
 | Older incomplete testing    | Updated comprehensive molecular testing                                                 |
+<img width="642" height="364" alt="image" src="https://github.com/user-attachments/assets/c78a61ee-45b7-4130-a2c4-a50007aa9c12" />
+
+<img width="637" height="346" alt="image" src="https://github.com/user-attachments/assets/bea278aa-85ab-4805-8a1b-dc1564d23384" />
 
 People previously tested using older methods may need retesting because older approaches could miss variants or describe them imprecisely. Updated testing may also be required for clinical-trial or treatment eligibility.
 
@@ -692,6 +695,9 @@ At the article’s cutoff, four exon-skipping drugs were discussed:
 These antisense oligonucleotides bind to pre-mRNA and cause a selected exon to be skipped during splicing. The objective is to convert an out-of-frame transcript into an in-frame transcript, allowing production of a shorter dystrophin protein.
 
 Approximately 30% of people with DMD were estimated to be eligible for one of the available exon-skipping treatments.
+
+<img width="637" height="359" alt="image" src="https://github.com/user-attachments/assets/b776ffc9-281d-46ed-8bd7-6600e15e6cc2" />
+
 
 Important qualifications:
 
