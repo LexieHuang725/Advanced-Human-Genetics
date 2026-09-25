@@ -180,3 +180,5 @@ CFTR mutation comprises the $\Delta$ F508 mutation only.
 
 
 * Notice that Bayes are used in certain circumstances when there is test sensitivity, kids in family who are affected, and penetrance.
+
+<img width="505" height="391" alt="image" src="https://github.com/user-attachments/assets/b5f60ab6-96a2-4a67-9e16-5a33b122a441" />
