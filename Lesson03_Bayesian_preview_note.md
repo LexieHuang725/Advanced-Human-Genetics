@@ -177,3 +177,6 @@ sibling is found to be homozygous for the $\Delta$ F508 mutation. Assuming the p
 of the test for the consultand increases to essentially
 100%. This is because the prior probability of carrying a
 CFTR mutation comprises the $\Delta$ F508 mutation only.
+
+
+* Notice that Bayes are used in certain circumstances when there is test sensitivity, kids in family who are affected, and penetrance.
