@@ -185,6 +185,21 @@ $\beta$<sup>+</sup>: reduced beta chain but not complete absence
 
 <img width="570" height="274" alt="image" src="https://github.com/user-attachments/assets/a28d0120-c20f-4b67-8299-33cbf53adc0a" />
 
+### Compound Heterozygous vs. Double Heterozygous
+The main difference is that a compound heterozygous person has two different mutations within the same single gene, while a double heterozygous person has mutations spread across two different genes.
+
+#### Compound Heterozygous
+* Location: One specific gene locus.
+* Structure: The person carries two different mutated or altered alleles (gene versions) for that single gene—one inherited from the mother and one from the father.
+* Effect: Neither allele is normal. Because both copies of the same gene are disrupted by different flaws, this can cause an autosomal recessive genetic disease, even though the two mutations are not identical.
+* Example: In genetic hemochromatosis, a person might carry one C282Y mutation on one copy of the HFE gene and one H36D mutation on the other copy.
+
+#### Double Heterozygous
+* Location: Two separate gene loci.
+* Structure: The person is heterozygous (carrying one normal and one mutated allele) at two different genes.
+* Effect: This often involves two distinct conditions or can combine to create a more severe or complex clinical presentation when two separate genes contributing to the same pathway or disease risk are both mutated.
+* Example: A person carrying one disease-causing mutation in the MYH7 gene and a second separate mutation in the CSRP3 gene (both related to heart conditions) is double heterozygous.
+
 ### Clinical Features
 * anemia
 * painful abdominal and bone crises especially due to hypoxia
