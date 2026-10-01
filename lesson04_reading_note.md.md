@@ -86,3 +86,7 @@ TP-PCR allows rapid detection of PCR products
  using methylation-specifific PCR. TaqMan chemistry amplifification
  separates methylated and unmethylated specifific alleles and
  provides a ratio based on amplifification cycle thresholds.
+
+<img https://www.researchgate.net/publication/5272023/figure/fig1/AS:202677687459841@1425333534232/The-molecular-diagnostic-findings-of-fragile-X-syndrome.png>
+
+<img width="402" height="562" alt="image" src="https://github.com/user-attachments/assets/889fd27e-0fae-44f0-84ba-470d166c4534" />
