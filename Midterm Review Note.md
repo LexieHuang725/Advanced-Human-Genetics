@@ -55,7 +55,8 @@
 |Cystic Fibrosis|AR|CFTR|respiratory disease, pancreatic insufficiency, elevated sweat chloride, male infertility|variable expressivity, pleiotropy, full penetrance, allelic heterogeneity|in-frame deletion|
 |Sickle cell disease|AR|HBB|vaso-occlusion (misshapen, rigid red blood cells blocking small blood vessels) and chronic hemolytic anemia (premature breakdown of red blood cells)|pleiotropy, variable expressivity, heterozygote, compound heterozygosity|point missense mutation(A->T)|
 |Alpha Thal|AR|HBA1/2|chronic hemolytic anemia (destruction of red blood cells), fatigue, and exercise intolerance|gene dosage, allelic heterogeneity, locus heterogeneity, and variable expressivity|deletion|
-|Beta Thal|AR|HBB|elevated HbA2 level|Allelic Heterogeneity, variable expressivity|point mutation|
+|Beta Thal|AR|HBB|elevated HbA2 level|Allelic Heterogeneity, variable expressivity|point mutation(• β⁰ mutations: Total absence of beta-globin production (e.g., nonsense or frameshift mutations).
+• β⁺ mutations: Reduced production of beta-globin (e.g., promoter or splicing mutations).)|
 
 ## Interpretation of screening results (MCV, HbElect, iron studies)
 |finding|interpretation|
