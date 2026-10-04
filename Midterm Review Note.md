@@ -31,6 +31,8 @@
 |Charcot-Marie-Tooth|AD/AR/X-linked|CMT1A|pes cavus(curved feet), distal atrophy, sensory loss, reduced reflexes|locus heterogeneity|duplication of an extra copy of the entire gene|
 | **Hereditary cancer syndromes** | **Usually AD**|BRCA1/2;FAP;PTEN;TP53|Cancer at unusually young ages; bilateral tumors; multiple primary cancers in one person; related cancers across generations; sometimes characteristic findings such as numerous colon polyps. | **Reduced and age-dependent penetrance**, variable expressivity, pleiotropy, allelic and locus heterogeneity; **two-hit hypothesis** for many tumor-suppressor genes. |**nonsense, frameshift, splice-site, missense, and large deletions/duplications**|
 
+<img width="532" height="683" alt="image" src="https://github.com/user-attachments/assets/093bd632-736d-43ae-bd03-715e8b0f6e85" />
+
 
 # For inheritance cancer:
 | Syndrome | Gene(s) | Inheritance | Main clinical clues | Mechanism to remember |
