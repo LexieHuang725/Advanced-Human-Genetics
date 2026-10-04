@@ -10,7 +10,7 @@
 |Allelic heterogeneity|Different mutations on the same gene causes same/different phenotype|Cystic Fibrosis(CFTR) hundreds different mutations all cause CF/BRCA1-caused breast/ovarian cancer|
 |Locus heterogeneity|Mutations in different gene locations cause same phenotype|Charcot-Marie-Tooth Disease(CMT1A)-can be AD,AR,X-linked|
 |Gain-of-function/Loss-of-function mutations|gain-of-function: mutation gives resulting protein an enhanced or new/abnormal activity, typically in AD manner; Loss of function: mutation gives resulting reduction/loss of function, often AR|gain of function: achondroplasia(FGFR3)/loss of function: DMD/PHTS(PTEN, tumor suppressor gene)|
-|Penetrance/nonpenetrance|The proportion of individuals expressing clinical symptoms among those with the genotype.|Marfan syndrome(FBN1)/Lynch syndrome(mismatch repair gene)|
+|Penetrance/nonpenetrance|The proportion of individuals expressing clinical symptoms among those with the genotype.|Marfan syndrome(FBN1)-full/Lynch syndrome(mismatch repair gene)-incomplete|
 |Variable expressivity|variation in severity and rang of clinical features among individuals with same genetic mutation|neurofibromatosis type 1(NF1)|
 |Compound heterozygote|An individual has two different mutation alleles at same gene locus|/|
 |Double heterozygote|An individual who is heterozygous for mutation in two separate gene loci, which gene is associated with the same disease|/|
