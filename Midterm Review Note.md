@@ -373,3 +373,9 @@ in and out of the gene pool
 
 * Mutually exclusive events – two or more events can’t occur together in the same trial
   * Addition (either/or) rule
+
+#### Test results
+▪ Positive Predictive Value – the chance that someone
+with a positive test really has the disease
+▪ Negative Predictive Value – the chance that someone
+with a negative test really doesn’t have the disease
