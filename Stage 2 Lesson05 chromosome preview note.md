@@ -237,8 +237,24 @@ attach to its complementary target sequence. The fluorescently labeled DNA is th
 visualized using a fluorescent microscope lens
 
 <img width="422" height="292" alt="image" src="https://github.com/user-attachments/assets/01e583f5-d89d-4582-af09-d00ca241f349" />
+<img width="543" height="234" alt="image" src="https://github.com/user-attachments/assets/a813115a-d06f-4f9a-8724-b2c7afd7ddfa" />
 
-Limitation:  cannot identify the
+**Use:**
+- Prenatal or neonatal rapid diagnosis of
+aneuploidy (trisomy 13, 18, 21, X and Y) or
+triploidy
+
+- Specific microdeletion syndromes (LSI probes)
+such as velocardiofacial syndrome,
+Prader-Willi/Angelman syndromes, and many
+others
+
+- Identification of translocations and marker
+chromosomes
+
+**Limitation:**  Need to know
+chromosomal region of
+interest; cannot identify the
 presence of other numerical or structural rearrangements present in the chromosomes.
 Therefore, while FISH is a useful screening tool in prenatal diagnosis, final diagnosis still
 requires confirmation by full G-banded karyotype.
@@ -255,6 +271,20 @@ requires confirmation by full G-banded karyotype.
 - Useful when a patient has **developmental delay, intellectual disability, autism, congenital anomalies, or dysmorphic features** with a normal karyotype.
 - **Cannot detect balanced translocations or inversions**, because there is no net gain or loss of DNA.
 - Traditional aCGH also does **not reliably detect triploidy**.
+
+<img width="768" height="582" alt="image" src="https://github.com/user-attachments/assets/25370f3e-c526-4c07-9553-882aa40573c5" />
+
+<img width="624" height="671" alt="image" src="https://github.com/user-attachments/assets/34b02a22-7dc7-4a7b-a6e9-3a53b4788104" />
+
+<img width="780" height="568" alt="image" src="https://github.com/user-attachments/assets/b24e4a31-b2bd-44e6-b6c9-fc35ea46c527" />
+
+<img width="757" height="338" alt="image" src="https://github.com/user-attachments/assets/51fde267-1bec-4906-b509-52f481725a41" />
+
+<img width="659" height="327" alt="image" src="https://github.com/user-attachments/assets/bbad578f-47d7-4e87-a54e-ca8a8cdc2a0d" />
+
+<img width="756" height="427" alt="image" src="https://github.com/user-attachments/assets/51e11d88-fabc-4e55-925e-cf400c80fdf8" />
+
+<img width="594" height="413" alt="image" src="https://github.com/user-attachments/assets/b514340e-912e-4c43-bf94-56c222f844d3" />
 
 ### SNP Microarray
 - Uses known **single-nucleotide polymorphisms (SNPs)** across the genome to evaluate both **copy number** and **allele pattern**.
@@ -303,6 +333,8 @@ requires confirmation by full G-banded karyotype.
 ## Copy Number Variants (CNVs)
 
 - **CNVs** are deletions or duplications of genomic DNA that change the number of copies of a region.
+- <img width="546" height="309" alt="image" src="https://github.com/user-attachments/assets/9e6d6949-2dae-4348-b39f-47eecb709f5a" />
+
 - Many CNVs are **polymorphic** and may have **no clinical significance**.
 - Some CNVs can affect genes or regulatory regions and may contribute to disease.
 - CNVs detected by microarray may be classified as:
@@ -337,3 +369,5 @@ When CMA identifies a CNV, follow-up may include:
 
 ### Key Point
 **CMA detects genome-wide deletions and duplications, but interpretation depends on whether the CNV is pathogenic, benign, or of uncertain significance.**
+
+<img width="288" height="349" alt="image" src="https://github.com/user-attachments/assets/6beb5529-dd4b-48a8-8222-170060e5ee94" />
