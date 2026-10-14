@@ -214,4 +214,3 @@ sion. Both homologous chromosomes from one parent (segregate) into one daughter 
 - During Prophase I, homologous chromosomes exchange DNA between non-sister chromatids.
 - This creates recombinant chromosomes with new combinations of alleles.
 <img width="426" height="691" alt="image" src="https://github.com/user-attachments/assets/1d0c2c12-77f1-4bd3-ab4a-7f8fe3286877" />
-
