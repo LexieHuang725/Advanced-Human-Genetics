@@ -1,9 +1,13 @@
 # Lesson 1
 ## Meiosis and Mitosis
+<img width="582" height="416" alt="image" src="https://github.com/user-attachments/assets/837ab6ed-bd46-4408-96ad-0f36d1e3a168" />
+
 ### Mitosis:
 * Occurs during **cell division of somatic cells**
 * A diploid cell generates an identical diploid cells
 * Normally, no recombination takes place
+
+<img width="462" height="411" alt="image" src="https://github.com/user-attachments/assets/d52f79d6-4fc1-48d4-8f31-5666110dcad8" />
 
 ### Meiosis
 * Occurs during **gamete formation**
@@ -171,6 +175,8 @@ therefore one gene for each trait)
 chromosomes (and genes) are inherited inde-
 pendently from other chromosomes **(possibilities = 2<sup>n</sup>)**
 
+<img width="520" height="421" alt="image" src="https://github.com/user-attachments/assets/23634402-127e-4c99-982e-fe3fa21b14cd" />
+
 <img width="375" height="651" alt="image" src="https://github.com/user-attachments/assets/ab2b555c-225e-4fa8-b4e2-5a2dd96c509c" />
 <img width="1435" height="1064" alt="image" src="https://github.com/user-attachments/assets/14ea2d7a-f935-42f8-9b68-62cc04897acb" />
 
@@ -210,7 +216,22 @@ sion. Both homologous chromosomes from one parent (segregate) into one daughter 
 - Therefore maternal and paternal chromosomes are randomly distributed into gametes.
 - In humans, independent assortment alone gives 2²³ possible chromosome combinations per gamete.
 
-4. Genetic recombination / crossing over
+4. Genetic crossing over
 - During Prophase I, homologous chromosomes exchange DNA between non-sister chromatids.
 - This creates recombinant chromosomes with new combinations of alleles.
 <img width="426" height="691" alt="image" src="https://github.com/user-attachments/assets/1d0c2c12-77f1-4bd3-ab4a-7f8fe3286877" />
+<img width="507" height="423" alt="image" src="https://github.com/user-attachments/assets/2b4a48e4-287a-44b6-99e0-ac714419c688" />
+
+## Nondisjunction
+<img width="507" height="423" alt="image" src="https://github.com/user-attachments/assets/6cf12c75-64f6-4d82-bde2-54955b687366" />
+
+<img width="618" height="454" alt="image" src="https://github.com/user-attachments/assets/1f695351-0e69-4ef4-b2b5-427f22eabf04" />
+
+<img width="387" height="581" alt="image" src="https://github.com/user-attachments/assets/cf920b2b-df67-4e71-ade4-8fe012a702c9" />
+
+<img width="400" height="580" alt="image" src="https://github.com/user-attachments/assets/40ef46d8-ee5c-410f-8235-b9d747edadc9" />
+
+## Meiotic Error consequences
+trisomy 21: down's syndrome; trisomy 18; trisomy 13;
+monosomy X (Turner syndrome); Kleinfelter syndrome;
+triple X syndrome; XYY syndrome
