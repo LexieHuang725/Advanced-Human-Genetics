@@ -65,7 +65,9 @@ condition?
 5. What is the prevalence of medical consequences of chromosomal
 abnormalities?
 
-Chromosomal abnormalities are found in roughly 50% or more of first-trimester spontaneous miscarriages, while clinically significant chromosome abnormalities occur in approximately 0.5–1% of live births.
+<img width="498" height="334" alt="image" src="https://github.com/user-attachments/assets/74433656-2ab4-41b8-a48f-08a75ff3aa25" />
+
+Chromosomal abnormalities are found in roughly 50% of first-trimester spontaneous miscarriages, while clinically significant chromosome abnormalities occur in approximately 1% of live births.
 
 - Most autosomal monosomies → embryonic lethal
 - Most autosomal trisomies → pregnancy loss
@@ -74,6 +76,10 @@ Chromosomal abnormalities are found in roughly 50% or more of first-trimester sp
   - Trisomy 18
   - Trisomy 13
 - Sex chromosome aneuploidies tend to be more survivable.
+
+<img width="460" height="393" alt="image" src="https://github.com/user-attachments/assets/034ebdf9-2608-4927-955d-75fa6c33484f" />
+
+<img width="566" height="398" alt="image" src="https://github.com/user-attachments/assets/19460784-37b9-4d83-b76c-adcd464d4698" />
 
 7. What are the indications for doing a chromosomal study?
 
@@ -346,7 +352,8 @@ requires confirmation by full G-banded karyotype.
 | **FISH** | A **specific DNA/chromosome region** using a fluorescent probe | When you already suspect a particular abnormality (Suspected 22q11.2 deletion <br> Rapid testing for trisomy 13, 18, or 21 <br> Detecting specific rearrangements in cancer, e.g. BCR::ABL1 <br> Confirming an abnormality already found by another test) | Only examines the region(s) you probe |
 | **Chromosomal microarray (CMA)** | **Genome-wide copy-number changes** | Unexplained developmental delay, ID, autism, multiple congenital anomalies, dysmorphic features | Usually cannot detect balanced translocations/inversions |
 
-## Uniparental Disomy: occurs when a person inherits both copies of a chromosome (or part of a chromosome) from one parent and no copy from the other parent, instead of the normal inheritance of one copy from each parent.
+## Uniparental Disomy: 
+occurs when a person inherits both copies of a chromosome (or part of a chromosome) from one parent and no copy from the other parent, instead of the normal inheritance of one copy from each parent.
 
 ### Types of Uniparental Disomy
 
@@ -354,6 +361,8 @@ requires confirmation by full G-banded karyotype.
 * Heterodisomy: Both different homologous chromosomes of a pair are inherited from the same parent (usually due to a meiosis I error or trisomy rescue).
 
 <img width="705" height="525" alt="image" src="https://github.com/user-attachments/assets/a6954e28-1ae0-4c6b-abb8-21c816259c36" />
+
+<img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/19181e67-1126-4959-bfba-4a6e5e8641f8" />
 
 ## Copy Number Variants (CNVs)
 
