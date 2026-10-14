@@ -1,6 +1,20 @@
 # Lesson 5 - Chromosome
 ## Cell cycle & chromosome packaging
 <img width="1124" height="515" alt="image" src="https://github.com/user-attachments/assets/e8d948a5-9915-4a32-97ae-97d64e1eee02" />
+
+<img width="522" height="409" alt="image" src="https://github.com/user-attachments/assets/6c9d01b5-e999-4d12-8c5f-20d761099bc2" />
+
+<img width="465" height="298" alt="image" src="https://github.com/user-attachments/assets/ea83b384-55f2-4b14-af74-bb4eac808e24" />
+
+<img width="495" height="362" alt="image" src="https://github.com/user-attachments/assets/dd8643e0-ba39-4b37-a214-720c8d597291" />
+
+<img width="526" height="394" alt="image" src="https://github.com/user-attachments/assets/11417ba0-6d35-4207-9ae1-93a4c99cfab4" />
+
+<img width="366" height="370" alt="image" src="https://github.com/user-attachments/assets/5e76cb54-9358-48bc-b4c2-791dac152d25" />
+
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/72ff760a-998b-43d2-8854-07b6a35277e4" />
+
+
 ## Significance of chromosomal conditions
 1. How many genes are typically on a chromosome, metaphase band, high
 resolution band?
@@ -152,7 +166,12 @@ karyotype.**
 
 ### Other banding techniques
 i. C-Banding
+
+<img width="505" height="321" alt="image" src="https://github.com/user-attachments/assets/97f6a7ef-086c-4b5e-8312-aa6603a62c36" />
+
 ii. NOR
+
+<img width="499" height="270" alt="image" src="https://github.com/user-attachments/assets/2c376118-1e39-4ce2-af7e-1d112fbeeb93" />
 
 ### Preparation of Karyotype
 Cells(ie.peripheral blood cells) placed in tissue culture medium
@@ -203,6 +222,12 @@ Chromosomes are less condensed and therefore longer at prophase than at metaphas
 end in structures called satellites. Satellites contain rRNA genes.)
 
 <img width="672" height="227" alt="image" src="https://github.com/user-attachments/assets/bc510e4a-4284-4feb-9dbe-bef2d334f7c4" />
+
+<img width="247" height="125" alt="image" src="https://github.com/user-attachments/assets/e2009dbb-9eb3-4b22-8e33-a1f7e09d5cb3" />
+
+<img width="423" height="387" alt="image" src="https://github.com/user-attachments/assets/5fccabdf-db9d-4115-bf02-d71d6bbe8dd4" />
+
+<img width="509" height="399" alt="image" src="https://github.com/user-attachments/assets/4aac34ee-a6ba-4261-9299-567e32625298" />
 
 #### Chromosome classification
 <img width="267" height="423" alt="image" src="https://github.com/user-attachments/assets/0fb76ae0-3fd0-4bdb-b940-2c4669f6b289" />
