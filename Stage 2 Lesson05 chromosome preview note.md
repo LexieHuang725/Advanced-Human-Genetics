@@ -355,10 +355,10 @@ requires confirmation by full G-banded karyotype.
 ## Uniparental Disomy: 
 occurs when a person inherits both copies of a chromosome (or part of a chromosome) from one parent and no copy from the other parent, instead of the normal inheritance of one copy from each parent.
 
-### Types of Uniparental Disomy
+### Types of Uniparental Disomy (eg. have only mom as CF carrier, but id also gets CF, usually se FISH bc already know where it went wrong)
 
-* Isodisomy: Both copies come from a single chromosome of one parent that has been duplicated (usually due to a meiosis II error or monosomy rescue).
-* Heterodisomy: Both different homologous chromosomes of a pair are inherited from the same parent (usually due to a meiosis I error or trisomy rescue).
+* Isodisomy: Both copies come from a single chromosome of one parent that has been duplicated (usually due to a meiosis II error or monosomy rescue). - meiosis II
+* Heterodisomy: Both different homologous chromosomes of a pair are inherited from the same parent (usually due to a meiosis I error or trisomy rescue). - meiosis I
 
 <img width="705" height="525" alt="image" src="https://github.com/user-attachments/assets/a6954e28-1ae0-4c6b-abb8-21c816259c36" />
 
