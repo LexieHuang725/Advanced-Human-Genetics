@@ -222,6 +222,14 @@ sion. Both homologous chromosomes from one parent (segregate) into one daughter 
 <img width="426" height="691" alt="image" src="https://github.com/user-attachments/assets/1d0c2c12-77f1-4bd3-ab4a-7f8fe3286877" />
 <img width="507" height="423" alt="image" src="https://github.com/user-attachments/assets/2b4a48e4-287a-44b6-99e0-ac714419c688" />
 
+
+|Feature|	Mendel's First Law (Segregation)	|Mendel's Second Law (Independent Assortment)|
+|--|----------------------------------------|-|
+|Focus|	Separation of alleles for a single gene	|Sorting of alleles for two or more different genes|
+|Stage of Meiosis|	Anaphase I / II	|Metaphase I (random alignment)|
+|Typical Cross|	Monohybrid cross (e.g., Rr x Rr)|	Dihybrid cross (e.g.,RrGg x RrGg)|
+|Resulting Ratio|	3:1 phenotypic ratio in F2	|9:3:3:1 phenotypic ratio in F2|
+
 ## Nondisjunction
 <img width="507" height="423" alt="image" src="https://github.com/user-attachments/assets/6cf12c75-64f6-4d82-bde2-54955b687366" />
 
