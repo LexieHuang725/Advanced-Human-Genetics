@@ -41,4 +41,12 @@ leukemia
 – Trisomy 21/normal mosaicism (1%-2%)
 
 ### Robertsonian Translocation
+<img width="4000" height="895" alt="image" src="https://github.com/user-attachments/assets/16836930-e153-4f81-b4a6-54c0638a3b03" />
 <img width="679" height="499" alt="image" src="https://github.com/user-attachments/assets/ce55a0bf-b787-4664-909f-bdae8243d177" />
+<img width="1217" height="1000" alt="image" src="https://github.com/user-attachments/assets/3277eace-ec2b-4928-941e-1a4a4ff924ad" />
+
+## Klinefelter syndrome
+<img width="1043" height="1000" alt="image" src="https://github.com/user-attachments/assets/e81188ef-22a9-46fe-8373-c0340588587c" />
+
+## Turner syndrome
+<img width="1000" height="1096" alt="image" src="https://github.com/user-attachments/assets/cf7bb757-587f-4b3c-b67d-af9193f78f00" />
