@@ -238,3 +238,18 @@ chromosomes
 • IQ score 10-15 points less than sibs
 – Behavior problems may occur
 <img width="283" height="412" alt="image" src="https://github.com/user-attachments/assets/56147dd1-5c30-4ea5-911c-1e02328747c1" />
+
+### CGC - when do we order a karyotype:
+* for patients with obvious chromosomal syndrome
+* family history of chromosomal rearrangement
+
+If a translocated chromosome is not clear to see in karyotype, we can order **FISH** to help
+
+### When do we order Microarray:
+* postnatal evaluation:
+  * multiple congenital anormalies and no known syndrome
+  * developmental delay, intellectual disability
+  * ASD
+* Prenatal:
+  * one or more major structural anormalies in ultrasound in pregnancy
+
