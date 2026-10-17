@@ -291,10 +291,13 @@ Therefore, while FISH is a useful screening tool in prenatal diagnosis, final di
 requires confirmation by full G-banded karyotype.
 
 ## Chromosomal Microarray Analysis
+**Normally use both aCGH and SNP array, but it's important to distinguish**
 
 <img width="654" height="606" alt="image" src="https://github.com/user-attachments/assets/19de7b64-f3f3-4c43-99f0-cfc01a601148" />
 
 ### Array Comparative Genomic Hybridization (aCGH)
+**deletion, duplication, CNV, have control vs. no control**
+
 - Detects **copy number variants (CNVs)**: chromosomal **deletions and duplications**, including some whole-chromosome gains such as trisomy.
 - Has a **higher resolution and detection rate than routine karyotyping** for submicroscopic imbalances.
 - Patient DNA and reference DNA are labeled with different fluorescent dyes and hybridized to the same array.
@@ -307,6 +310,8 @@ requires confirmation by full G-banded karyotype.
 
 <img width="624" height="671" alt="image" src="https://github.com/user-attachments/assets/34b02a22-7dc7-4a7b-a6e9-3a53b4788104" />
 
+> If the entire chromosome has four lines A-B, meaning extra information, almost certain that it is a triploid; if there are only two, meaning lack of info and a deletion.
+
 <img width="780" height="568" alt="image" src="https://github.com/user-attachments/assets/b24e4a31-b2bd-44e6-b6c9-fc35ea46c527" />
 
 <img width="757" height="338" alt="image" src="https://github.com/user-attachments/assets/51fde267-1bec-4906-b509-52f481725a41" />
@@ -318,6 +323,7 @@ requires confirmation by full G-banded karyotype.
 <img width="594" height="413" alt="image" src="https://github.com/user-attachments/assets/b514340e-912e-4c43-bf94-56c222f844d3" />
 
 ### SNP Microarray
+**Look at small reads, at specific point mutation**
 - Uses known **single-nucleotide polymorphisms (SNPs)** across the genome to evaluate both **copy number** and **allele pattern**.
 - Can detect:
   - **Deletions and duplications**
@@ -401,6 +407,11 @@ When CMA identifies a CNV, follow-up may include:
 - **Clinical genetics evaluation**
 - **Genetic counseling** to discuss significance, recurrence risk, and family implications
 
+## Genetic marker
+**DNA sequence with a known physical location on a chromosome**
+
+## Linkage analysis
+**A technique used for DNA mapping/discovery
 ### Key Point
 **CMA detects genome-wide deletions and duplications, but interpretation depends on whether the CNV is pathogenic, benign, or of uncertain significance.**
 
