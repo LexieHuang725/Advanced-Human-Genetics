@@ -43,6 +43,7 @@
 * **unbalanced** if a segment of **one chromosome is duplicated** and **other segment is deleted**
 
 <img width="671" height="336" alt="image" src="https://github.com/user-attachments/assets/aad0bbe5-cd36-400e-b4b5-2227523e287c" />
+
 * Simple reciprocal translocation: two-way exchange between two crhomosomes
 * Rearranged chromosome is called a derivative(der) chromosome
 * The der chromosome is defined by its centromere
@@ -172,6 +173,7 @@ actual cytogenetic imbalance
 
 ### Robertsonian Translocation
 <img width="666" height="384" alt="image" src="https://github.com/user-attachments/assets/b4335454-13d2-4f55-a1f2-6bf286474b84" />
+
 * involve **acrocentric D and G**
 group chromosomes (centromere very close to one end)
 * The translocation chromosome
