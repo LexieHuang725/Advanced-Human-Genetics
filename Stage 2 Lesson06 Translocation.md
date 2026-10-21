@@ -17,18 +17,25 @@
 
 ### Interstitial Deletion
 <img width="264" height="374" alt="image" src="https://github.com/user-attachments/assets/63b61344-e3a8-44ba-8e10-d1369511d50d" />
+
 ### Terminal Deletion
 <img width="518" height="118" alt="image" src="https://github.com/user-attachments/assets/b7b27cda-d32f-4104-9668-b53dea1e8e2e" />
+
 ### Insertion
 <img width="479" height="374" alt="image" src="https://github.com/user-attachments/assets/211fe930-976c-4d17-8dcf-23ba33a5bc91" />
+
 ### Pericentric Inversion
 <img width="242" height="402" alt="image" src="https://github.com/user-attachments/assets/8b26ea13-cb58-4043-9bca-821bd96f7f3a" />
+
 ### Paracentric Inversion
 <img width="183" height="361" alt="image" src="https://github.com/user-attachments/assets/596ecf0b-f2cc-4ac0-b8ee-8356d03eff0e" />
+
 ### Isochromosome
 <img width="391" height="387" alt="image" src="https://github.com/user-attachments/assets/c5ed78ba-d00c-4ca6-83c7-8980f6ae43a7" />
+
 ### Reciprocal Translocation
 <img width="442" height="372" alt="image" src="https://github.com/user-attachments/assets/58a0ef4b-bac4-4147-b2c2-c5a41113bd64" />
+
 #### Autosomal Reciprocal Translocation
 * 1/500 individuals are translocation carriers
 * typically 2-way translocation involving two chromosomes
