@@ -267,8 +267,14 @@ of each strand. As the strands reanneal, the probe will recognize and
 attach to its complementary target sequence. The fluorescently labeled DNA is then
 visualized using a fluorescent microscope lens
 
+<img width="599" height="187" alt="image" src="https://github.com/user-attachments/assets/bd84ec5d-38da-4029-89e3-db5875f53bf9" />
+
+> As we can see, in the leftmost picture, there are three yellow dots, indicating a trisomy 21
+
 <img width="422" height="292" alt="image" src="https://github.com/user-attachments/assets/01e583f5-d89d-4582-af09-d00ca241f349" />
 <img width="543" height="234" alt="image" src="https://github.com/user-attachments/assets/a813115a-d06f-4f9a-8724-b2c7afd7ddfa" />
+
+> The right picture had no pink dot on one of the chr, indicating a deletion of the gene of interest
 
 **Use:**
 - Prenatal or neonatal rapid diagnosis of
@@ -296,7 +302,7 @@ requires confirmation by full G-banded karyotype.
 <img width="654" height="606" alt="image" src="https://github.com/user-attachments/assets/19de7b64-f3f3-4c43-99f0-cfc01a601148" />
 
 ### Array Comparative Genomic Hybridization (aCGH)
-**deletion, duplication, CNV, have control vs. no control**
+**deletion, duplication, CNV, have control vs. no control, CANNOT DETERMINE TRIPLOIDY**
 
 - Detects **copy number variants (CNVs)**: chromosomal **deletions and duplications**, including some whole-chromosome gains such as trisomy.
 - Has a **higher resolution and detection rate than routine karyotyping** for submicroscopic imbalances.
@@ -308,13 +314,16 @@ requires confirmation by full G-banded karyotype.
 
 <img width="768" height="582" alt="image" src="https://github.com/user-attachments/assets/25370f3e-c526-4c07-9553-882aa40573c5" />
 
-<img width="624" height="671" alt="image" src="https://github.com/user-attachments/assets/34b02a22-7dc7-4a7b-a6e9-3a53b4788104" />
-
-> If the entire chromosome has four lines A-B, meaning extra information, almost certain that it is a triploid; if there are only two, meaning lack of info and a deletion.
-
 <img width="780" height="568" alt="image" src="https://github.com/user-attachments/assets/b24e4a31-b2bd-44e6-b6c9-fc35ea46c527" />
 
 <img width="757" height="338" alt="image" src="https://github.com/user-attachments/assets/51fde267-1bec-4906-b509-52f481725a41" />
+
+> This shows a deletion in the green blue region on the CGH panel, you can also see it on SNParray
+
+### SNP Microarray
+<img width="624" height="671" alt="image" src="https://github.com/user-attachments/assets/34b02a22-7dc7-4a7b-a6e9-3a53b4788104" />
+
+> If the entire chromosome has four lines A-B, meaning extra information, almost certain that it is a triploid; if there are only two, meaning lack of info and a deletion. In the diagram shown, the three copy region has four lines from bottom to top, meaning AAA, AAB, ABB, BBB. If we have three lines in two copies region, it suppose to be three lines for AA, AB, BB. That's how we detect triploidy in SNParray
 
 <img width="659" height="327" alt="image" src="https://github.com/user-attachments/assets/bbad578f-47d7-4e87-a54e-ca8a8cdc2a0d" />
 
@@ -322,7 +331,6 @@ requires confirmation by full G-banded karyotype.
 
 <img width="594" height="413" alt="image" src="https://github.com/user-attachments/assets/b514340e-912e-4c43-bf94-56c222f844d3" />
 
-### SNP Microarray
 **Look at small reads, at specific point mutation**
 - Uses known **single-nucleotide polymorphisms (SNPs)** across the genome to evaluate both **copy number** and **allele pattern**.
 - Can detect:
@@ -399,7 +407,6 @@ CMA may also be considered for other findings such as:
 - Other unexplained developmental concerns
 
 ## Follow-Up After a CNV Is Found
-
 When CMA identifies a CNV, follow-up may include:
 
 - **Parental testing** to determine whether the CNV is inherited or de novo
