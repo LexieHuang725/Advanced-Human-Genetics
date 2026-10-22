@@ -21,7 +21,7 @@
 ### Terminal Deletion
 <img width="518" height="118" alt="image" src="https://github.com/user-attachments/assets/b7b27cda-d32f-4104-9668-b53dea1e8e2e" />
 
-### Insertion
+### Insertion - dif chr, not within homolog
 <img width="479" height="374" alt="image" src="https://github.com/user-attachments/assets/211fe930-976c-4d17-8dcf-23ba33a5bc91" />
 
 ### Pericentric Inversion
@@ -80,7 +80,7 @@ the translocated segments
 
 <img width="375" height="582" alt="image" src="https://github.com/user-attachments/assets/9a595f08-8ca8-4e9b-9b04-1d3d61b82acd" />
 
-#### 2:2 Alternative s
+#### 2:2 Alternative segregation
 * **Alternate segregation is
 the only type that leads
 to gametes with a
@@ -246,7 +246,7 @@ or 21 survive
 translocation trisomy 13 are rare
 * Alternate segregation is also favored in female
 carriers
-  – Females have ~20% risk of abnormal offspring
+  – **Females have ~20% risk of abnormal offspring**
 
 #### Postzygotic Correction and Uniparental Disomy
 * Translocation trisomy may be corrected
@@ -260,8 +260,10 @@ trisomy, resulting in UPD
 * UPD has imprinting effects for
 chromosomes 14 and 15
 * UPD from a parental rob is rare,
-however, any fetus with a balanced rob
-for chromosomes 14 or 15 must be tested
+however, **any fetus with a balanced rob
+for chromosomes 14 or 15 must be tested**
+
+> Bc chr 14/15 have imprinting aspects to consider, therefore the fetus with balanced rob still need to be tested out
 
 <img width="528" height="515" alt="image" src="https://github.com/user-attachments/assets/dce16044-e646-44d8-a7aa-37a2eb12d3a4" />
 
