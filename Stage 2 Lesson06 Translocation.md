@@ -299,3 +299,73 @@ and 1% in male
 
 #### Empiric Risks for Common Robertsonian Translocations
 <img width="651" height="372" alt="image" src="https://github.com/user-attachments/assets/b35b229d-4f3b-44a4-8451-035236654dce" />
+
+## GPT review notes
+| Category | Type / Term | What happens | Gamete / offspring outcome | Balanced? | Example / key clue | Disease risk / clinical consequence |
+|---|---|---|---|---|---|---|
+| **Reciprocal translocation** | **Definition** | Two chromosomes exchange segments | Carrier usually has all genetic material, just rearranged | Usually **balanced** in carrier | `t(3;12)` | Carrier often unaffected but can produce unbalanced gametes |
+| Reciprocal | **Derivative chromosome (der)** | Rearranged chromosome named by the **centromere it contains** | May carry material from 2 chromosomes | Depends | `der(12)t(3;12)` | If only one der is inherited → duplication + deletion |
+| Reciprocal | **Balanced reciprocal** | Both derivative chromosomes present; no net gain/loss | Normal DNA dosage | **Yes** | 46 chromosomes possible | Usually normal phenotype |
+| Reciprocal | **Unbalanced reciprocal** | One derivative inherited without the matching derivative | **Partial trisomy + partial monosomy** | **No** | `46,XX,der(12),t(3;12)...` | Congenital anomalies, DD/ID, miscarriage |
+| Reciprocal | **Meiotic pairing** | 4 chromosomes align by homologous segments | Forms a **quadrivalent** | — | Cross-shaped at pachytene | Segregation determines gamete balance |
+| Reciprocal segregation | **2:2 Alternate** | Opposite chromosomes go together | Normal gamete OR balanced carrier gamete | **Yes** | **Only balanced segregation** | Usually normal offspring/carrier |
+| Reciprocal segregation | **2:2 Adjacent-1** | **Unlike centromeres** travel together | Duplication + deletion | **No** | Most common adjacent type | Partial trisomy + partial monosomy |
+| Reciprocal segregation | **2:2 Adjacent-2** | **Like centromeres** travel together | Duplication + deletion | **No** | Least common adjacent type | Often more severe imbalance |
+| Reciprocal segregation | **3:1** | 3 chromosomes to one gamete, 1 to the other | Gametes with **24 or 22 chromosomes** | **No** | Often with “lop-sided” quadrivalent | Trisomy/monosomy-type imbalance; may be viable depending on segments |
+| Reciprocal 3:1 | **Tertiary** | Gamete contains **2 normal + 1 derivative chromosome** | Extra derivative material | **No** | `+der(22)t(11;22)` | Partial trisomy from der chromosome |
+| Reciprocal 3:1 | **Interchange** | Gamete contains **2 derivative + 1 normal chromosome** | Different unbalanced combination | **No** | 3:1 segregation | Severe imbalance |
+| Reciprocal segregation | **4:0** | All 4 chromosomes go to one gamete | Extreme imbalance | **No** | 4 vs 0 | **Not viable** |
+| Reciprocal | **What determines segregation mode?** | Mainly **size of translocated segments** | Affects quadrivalent shape and viable gametes | — | Quiz answer | Helps predict reproductive risk |
+| Reciprocal | **Small translocated segments** | Quadrivalent configuration favors Adjacent-1 | Unbalanced gametes possible | No | Adjacent-1 likely | Viable abnormal offspring possible |
+| Reciprocal | **Small centric segments** | Favors Adjacent-2 | Unbalanced | No | Adjacent-2 likely | Usually severe |
+| Reciprocal | **Lop-sided quadrivalent** | Favors 3:1 segregation | 24/22-chromosome gametes | No | `t(11;22)` classic | Tertiary trisomy possible |
+| Reciprocal | **Large centric + translocated segments** | Unbalanced products often too severe | Often nonviable | No | — | Miscarriage more likely |
+| **Robertsonian translocation** | **Definition** | Long arms of **acrocentric chromosomes** fuse | Short arms are lost | Usually balanced in carrier | Involves 13,14,15,21,22 | Carrier usually phenotypically normal |
+| Robertsonian | **Carrier chromosome count** | Two chromosomes become one fused chromosome | Usually **45 chromosomes** | Can still be balanced | `45,XX,der(14;21)` | 45 ≠ monosomy if essential long-arm material preserved |
+| Robertsonian | **Why short-arm loss is tolerated** | Short arms contain redundant **NOR/rRNA genes** | Enough rRNA gene copies remain | Yes | Acrocentric satellites | Usually no phenotype in balanced carrier |
+| Robertsonian | **Heterologous rob** | Two **different** acrocentric chromosomes fuse | Forms a **trivalent** in meiosis | Carrier balanced | `rob(14;21)` | Can make normal, balanced, trisomic, monosomic gametes |
+| Robertsonian | **Homologous rob** | Two copies of the **same** acrocentric chromosome fuse | **1:0 segregation** | Carrier may be balanced | `rob(21;21)` | No normal/balanced gametes |
+| Heterologous rob | **Meiotic pairing** | Derivative + 2 normal homologs align | **Trivalent** | — | `rob(14;21)` | 2:1 segregation common |
+| Heterologous rob | **Alternate segregation** | Normal homologs separate from derivative | Normal or balanced carrier gamete | **Yes** | Preferred outcome | No disease from dosage imbalance |
+| Heterologous rob | **Adjacent segregation** | Derivative travels with one normal homolog | Disomic or nullisomic gametes | **No** | Can produce trisomy/monosomy | Trisomy 13 or 21 may survive |
+| Heterologous rob | **3:0 segregation** | All 3 chromosomes to one gamete | Extreme imbalance | No | Rare | Usually nonviable |
+| Robertsonian | **Viable unbalanced outcomes** | Extra chr 13 or 21 material | Trisomy 13 or trisomy 21 | No | Patau / Down | Can result in liveborn child |
+| Robertsonian | **Usually nonviable trisomies** | Extra 14, 15, or 22 material | Miscarriage | No | — | Fetal loss |
+| Homologous rob | **1:0 segregation** | Gamete gets fused chromosome or gets none | **Disomic or nullisomic** for that chromosome | No normal gametes | `rob(21;21)` | After fertilization → trisomy 21 or monosomy 21 |
+| Homologous rob | **rob(21;21)** | Gamete has 2 copies of 21 or 0 | 2+1 = trisomy 21; 0+1 = monosomy 21 | No | High-yield | Viable pregnancies are trisomy 21 |
+| Homologous rob | **rob(13;13)** | Same logic as 21;21 | Trisomy 13 or monosomy 13 | No | — | Viable pregnancies may have trisomy 13 |
+| Robertsonian | **UPD / trisomy rescue** | Trisomic conception loses one chromosome after fertilization | Can normalize count but leave **UPD** | Copy-number neutral | Especially chr 14/15 | Imprinting disorders possible |
+| Robertsonian | **UPD concern** | Both homologs may come from one parent | Parent-of-origin effect | — | **14 and 15** | Must consider UPD testing |
+| Disease mechanism | **Deletion** | DNA segment missing | Partial monosomy | No | Unbalanced translocation | Haploinsufficiency, congenital anomalies |
+| Disease mechanism | **Duplication** | Extra DNA segment | Partial trisomy | No | Unbalanced translocation | Dosage-related disease |
+| Disease mechanism | **Breakpoint gene disruption** | Breakpoint interrupts a gene/regulatory region | Can cause disease even if overall balanced | May appear balanced | Rare but important | Gene-specific phenotype |
+| Disease mechanism | **Position effect** | Gene moved near different regulatory environment | Abnormal expression | May appear balanced | Structural rearrangement | Possible disease despite no CNV |
+| Reproductive consequence | **Balanced parent** | Parent has no net DNA gain/loss | Usually healthy | Yes | Reciprocal or rob | Increased miscarriage/affected-child risk |
+| Reproductive consequence | **Unbalanced gamete** | Extra and/or missing chromosomal material | Abnormal conception | No | Adjacent/3:1/rob adjacent | Miscarriage, DD/ID, congenital anomalies |
+| Counseling | **Liveborn affected child** | Shows that specific imbalance is survivable | Recurrence is clinically relevant | — | Slide rule | Useful for counseling viability |
+| Counseling | **Risk factors** | Ascertainment, segregation mode, transmitting parent sex, imbalance size | Determines recurrence estimate | — | 4-factor rule | Risks vary by rearrangement |
+
+| Robertsonian translocation | Maternal risk | Paternal risk | Main concern |
+|---|---:|---:|---|
+| **13;13** | 100% | 100% | Trisomy 13 among viable pregnancies |
+| **13;14** | ~1% | ~1% | Trisomy 13 |
+| **13;21** | ~15% | ~1% | Trisomy 13/21-related imbalance |
+| **14;21** | ~15% at amnio; ~10% liveborn | ~1% | **Translocation Down syndrome** |
+| **15;21** | ~10% | ~1% | Trisomy 21 |
+| **21;21** | 100% | 100% | **Down syndrome among viable pregnancies** |
+| **21;22** | ~10% liveborn | ~1% | Trisomy 21 |
+
+| If you see... | Think... |
+|---|---|
+| **Reciprocal** | Exchange → **quadrivalent** |
+| **Alternate** | Balanced |
+| **Adjacent-1** | Unlike centromeres → unbalanced |
+| **Adjacent-2** | Like centromeres → unbalanced |
+| **3:1** | 24/22 gametes → tertiary/interchange |
+| **4:0** | Nonviable |
+| **Robertsonian** | Acrocentric long-arm fusion |
+| **Heterologous rob** | Different chromosomes → **trivalent** |
+| **Homologous rob** | Same chromosomes → **1:0** |
+| **rob(21;21)** | No normal gametes → trisomy 21 or lethal monosomy 21 |
+| **Balanced parent** | Usually healthy, reproductive risk |
+| **Unbalanced child** | Duplication + deletion / trisomy + monosomy |
