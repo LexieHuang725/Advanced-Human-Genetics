@@ -129,8 +129,11 @@ have a tertiary trisomy
 
 > **What is a lop-sided quadrivalent?**
 > - When this structure is described as "lop-sided," it means that one of the involved chromosomes is much smaller in genetic content than the others. This size asymmetry creates physical instability during cell division.
+> - Normally lop-sided would pull two short and one long chromosome tgt, leaving the other one long chromosome to other side
 
 <img width="847" height="534" alt="image" src="https://github.com/user-attachments/assets/ec13f7af-1658-480d-8adf-db7dafcbd2b6" />
+
+The mode of ascertainment: how did the family first come to medical attention and how was the translocation discovered?
 
 | Rule | What to look for | Likely outcome | Memory cue |
 |---|---|---|---|
