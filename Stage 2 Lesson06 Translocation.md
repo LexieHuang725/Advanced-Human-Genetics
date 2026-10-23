@@ -133,7 +133,7 @@ have a tertiary trisomy
 
 <img width="847" height="534" alt="image" src="https://github.com/user-attachments/assets/ec13f7af-1658-480d-8adf-db7dafcbd2b6" />
 
-The mode of ascertainment: how did the family first come to medical attention and how was the translocation discovered?
+The mode of ascertainment: how did the family first come to medical attention and how was the translocation discovered? When a kid with intellectual disability or chromosome translocation syndrome has occured, the recurrence risk is mainly affected by the mode of ascertainment.
 
 | Rule | What to look for | Likely outcome | Memory cue |
 |---|---|---|---|
@@ -372,3 +372,14 @@ and 1% in male
 | **rob(21;21)** | No normal gametes → trisomy 21 or lethal monosomy 21 |
 | **Balanced parent** | Usually healthy, reproductive risk |
 | **Unbalanced child** | Duplication + deletion / trisomy + monosomy |
+
+## When to use a karyotype
+When we want to use diagnostic tool and to see recurrence risk, to see which type of translocation. The FISH is not a diagnostic tool for trisomy even tho FISH and SNParray can detect the trisomy.
+
+46,XX,der(4)t(4;?)(q33;?): microarray and FISH can be used to detect which chromosome is translocated as an extra part in chr 4.
+
+| Type | What is exchanged? | DNA consequence in a balanced carrier | Why it matters in meiosis |
+|---|---|---|---|
+| **Single-segment exchange** | One exchanged segment is **very small**, often just a telomeric piece | Still balanced overall if no DNA is lost/gained | Creates a more **asymmetric/lopsided quadrivalent**, which can affect which segregation pattern is favored |
+| **Double-segment exchange** | **Both exchanged segments are large** | Still balanced overall | Quadrivalent is more symmetric; segregation behavior differs depending on segment sizes |
+
