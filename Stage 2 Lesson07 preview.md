@@ -15,7 +15,7 @@
   - 90% of females fall within a range of 75:25 to 25:75
 * Influences clinical phenotype of carrier of X-linked single gene disorder
 * Skewed X-inactivation: when one X is preferentially inactivated
-* *eg. X-linked Anhidrotix Ectodermal Dysplasia/calio cats*
+* *eg. X-linked Anhidrotix Ectodermal Dysplasia/calio cats* (male caliso cats are XXY-kleinefelter)
 
 ### X-inactivation center(XIC)
 * Located at Xq13.2
@@ -27,8 +27,11 @@
 ### PAR
 * Pseudoautosomal regions escape Xi (not inactivated)
   -PAR1/2, 29 genes
-* **SHOX gene(Xp22.3) is associated with human skeletal disorders**
+* **SHOX gene(Xp22.3) is associated with human skeletal disorders**, this is also why turner syndrome has short stature, they only have one copy of PAR region and SHOX gene because of XO.
+  - PAR1: skeletal
+  - PAR2: fertility
 * 15% of other non-PAR genes escape inactivation
+<img width="280" height="330" alt="image" src="https://github.com/user-attachments/assets/d482be1d-c204-4684-983f-fee8ec9685de" />
 
 ### Nonrandom X-inactivation
 * structurally abnormal X chromosomes(dels, dups, isochr) are inactivated
@@ -88,9 +91,9 @@ translocation.”
 * Abnormalities range from mild (**Turner** or **Klinefelter** variants) to severe (**partial X functional disomy** or
 **autosomal aneuploidy**)
 * Each translocation needs to be assessed individually
-* What genes are extra/missing? Xp vs. Xq
+* What genes are extra/missing? Xp vs. Xq (PAR1/2 del...)
 * Consider breakpoints – are they in a critical region for ovarian function? Do they disrupt genes
-associated w/Mendelian disorders?
+associated w/Mendelian disorders (AD/AR/XLD/XLR)?
 
 ## Y chromosome
 * Its purpose is to **bring about male development**
@@ -98,7 +101,7 @@ associated w/Mendelian disorders?
 * Loss of PAR2 from Y seems to have no
 phenotypic consequence
 * Three genes on Yq are important for reproductive
-health, **AZFa, b, & c**
+health, **AZFa, b, & c**(Yq11.2)
 * Azoospermia factor regions
 * About half of Y is a genetically inert
 heterochromatic region (Yq12) (repetitive gene, inactive expression)
@@ -119,3 +122,13 @@ autosomal breakpoint can be
 anywhere
   - **Typically de novo**
   - Infertility is the presenting factor
+  - The Yq11.2 region houses the Azoospermia Factor (AZF) region, which contains genes strictly essential for creating sperm. Breaking this region directly destroys or inactivates these critical fertility genes.
+ 
+  - 
+| Feature | Common acrocentric type | Other reciprocal Y–autosome translocations |
+|---|---|---|
+| Autosome involved | **13, 14, 15, 21, or 22**; chromosome **15** is especially common | Any autosome |
+| Breakpoints | **Yq12** and the acrocentric **short arm, p11–p13** | Usually **Yq11.2 or Yq12**; autosomal breakpoint varies |
+| Material involved | Mainly repetitive DNA; usually no meaningful loss of euchromatin | May involve gene-containing regions or disrupt meiotic chromosome behavior |
+| Typical presentation | Normal physical phenotype; fertility often preserved | Normal physical phenotype, but **infertility may prompt testing** |
+| Inheritance pattern | Often familial | Often **de novo**—new in that individual |
