@@ -16,6 +16,7 @@
 * Influences clinical phenotype of carrier of X-linked single gene disorder
 * Skewed X-inactivation: when one X is preferentially inactivated
 * *eg. X-linked Anhidrotix Ectodermal Dysplasia/calio cats* (male caliso cats are XXY-kleinefelter)
+<img width="493" height="287" alt="image" src="https://github.com/user-attachments/assets/ac8fc30f-8b95-41e5-a900-b531d08a0291" />
 
 ### X-inactivation center(XIC)
 * Located at Xq13.2
