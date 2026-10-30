@@ -141,7 +141,7 @@ Beuren Syndrome Critical Region (WBSCR)**
 ### Clinical Features
 * “Elfin-like” facial appearance
 * “Cocktail party manner” in
-childhood
+childhood - the child can master the superficial mechanics of a casual "cocktail party" conversation, but they struggle with deep comprehension, spatial reasoning, and meaningful structural interaction.
 * Intellectual disability
 * Endocrine Abnormalities
 ### Management
