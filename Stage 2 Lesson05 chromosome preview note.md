@@ -289,6 +289,8 @@ others
 - Identification of translocations and marker
 chromosomes
 
+- track down the location of specific gene (such as SRY in XX)
+
 **Limitation:**  Need to know
 chromosomal region of
 interest; cannot identify the
