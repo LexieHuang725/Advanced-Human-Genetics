@@ -72,6 +72,7 @@ next pregnancy (whichever is greater)
     - 100% if isochromosome 21/21(an abnormal chromosome where the short arm (p) is lost and replaced by a mirror-image copy of the long arm (q))
 * Prenatal diagnosis available
 
+### Isochromosome
 <img width="716" height="539" alt="image" src="https://github.com/user-attachments/assets/37411839-818b-49ce-a1bc-6c1eeb8bcb0e" />
 
 ## Trisomy 18 (Edwards Syndrome)
@@ -133,6 +134,7 @@ thrive
 Lyonization - begins **early in ambryonic development**
 - All descendant cells have same X chromosomes active or inactive
 - Dosage compensation
+- 
 ### X-inactivation center (XIC)
 **Located at Xq13**
 XIST(X inactive specific transport) gene:
@@ -219,6 +221,8 @@ characteristics
   – Gynecomastia occurs in ~40%
   – Obesity as adults without testosterone replacement
 
+<img width="283" height="412" alt="image" src="https://github.com/user-attachments/assets/56147dd1-5c30-4ea5-911c-1e02328747c1" />
+
 ## 47, XXX
 1 in 1000 female births
 • Maternal meiotic nondisjunction w/maternal
@@ -237,7 +241,6 @@ chromosomes
 – Taller than average male
 • IQ score 10-15 points less than sibs
 – Behavior problems may occur
-<img width="283" height="412" alt="image" src="https://github.com/user-attachments/assets/56147dd1-5c30-4ea5-911c-1e02328747c1" />
 
 ### CGC - when do we order a karyotype:
 * for patients with obvious chromosomal syndrome
