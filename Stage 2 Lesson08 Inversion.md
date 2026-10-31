@@ -78,7 +78,8 @@ distal segments are not viable
 ### Paracentric inversion
 * do not involve the centromere
 * **theoretically cannot produce unbalanced offspring**
-* if a rec is formed, the gametes would be acentric or dicentric(nonviable) - = 0.1-0.5% risk of abnormal offspring
+* if a rec is formed, the gametes would be acentric or dicentric(nonviable)
+   = 0.1-0.5% risk of abnormal offspring (we never say never in genetics)
 • Exception if seen in literature
 • Paracentric inversions are difficult to detect on classical cytogenetic
 analyses; good quality, high-res banding is required
