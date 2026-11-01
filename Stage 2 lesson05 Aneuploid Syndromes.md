@@ -146,7 +146,7 @@ XIST(X inactive specific transport) gene:
 * PAR1 and PAR2 are not inactivated (males have PAR on both their X and Y chromosomes, females do not need to silence them. Thus, PAR1 and PAR2 genes naturally escape inactivation.)
   - 29 genes
 * SHOX gene is thought to be associated with human diseases
-* About 20% of other non-PAR genes escape inactivation as well
+* About 15% of other non-PAR genes escape inactivation as well
 <img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/11af83c2-ece6-489a-84aa-b47d110ba8a3" />
 
 ## Turner syndrome
