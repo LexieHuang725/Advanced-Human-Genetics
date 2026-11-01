@@ -196,7 +196,7 @@ adolescence**
 ## Klinefelter syndrome - 47, XXY
 <img width="400" height="385" alt="image" src="https://github.com/user-attachments/assets/e81188ef-22a9-46fe-8373-c0340588587c" />
 
-* 15% are mosaic 46,XY/47,XXY; better
+* 15% are mosaic 46,XY/47,XXY (early in embryo development, nondisjunction happen, making Y;XXY, but Y cells die, leaving normal XY & XXY. If it's late in embryo, then micromosaic/tissue specific happens); better
 prognosis for testicular function
 * Severity increases with **number of extra X
 chromosomes**
