@@ -380,6 +380,12 @@ occurs when a person inherits both copies of a chromosome (or part of a chromoso
 
 <img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/19181e67-1126-4959-bfba-4a6e5e8641f8" />
 
+<img width="426" height="602" alt="image" src="https://github.com/user-
+attachments/assets/33d70920-eb34-4fb3-9532-4098d5f4003b" />
+
+<img width="424" height="703" alt="image" src="https://github.com/user-attachments/assets/49d2ffa6-135c-43f6-870d-31e870cca97c" />
+
+
 ## Copy Number Variants (CNVs)
 
 - **CNVs** are deletions or duplications of genomic DNA that change the number of copies of a region.
