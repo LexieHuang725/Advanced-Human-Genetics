@@ -58,7 +58,7 @@ distal segments are not viable
 * **Inv(Y)(p11q13)** is not uncommon in general population
   - no phenotypic or reproductive effect
   - considered a **normal variant**
-* Autosomal common inversions: **inv(2)(p11q13)** and inversions heterochromatin
+* Autosomal common inversions: **inv(2)(p11q13)** and inversions of 1, 9, 16, and Y heterochromatin
   - no phenotypical effects and are considered normal variants
 
 ### Risk of having an affected offspring
