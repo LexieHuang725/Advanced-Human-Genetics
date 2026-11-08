@@ -431,3 +431,4 @@ When CMA identifies a CNV, follow-up may include:
 **CMA detects genome-wide deletions and duplications, but interpretation depends on whether the CNV is pathogenic, benign, or of uncertain significance.**
 
 <img width="288" height="349" alt="image" src="https://github.com/user-attachments/assets/6beb5529-dd4b-48a8-8222-170060e5ee94" />
+<!-- Study notes backup -->
