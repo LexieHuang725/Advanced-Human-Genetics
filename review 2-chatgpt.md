@@ -152,10 +152,8 @@ Short notes consolidated from the 19 uploaded files. Course estimates are retain
 
 <a href="assets/review2/maternal-age.jpg"><img src="assets/review2/maternal-age.jpg" width="400" alt="Maternal age and chromosome abnormality risk" /></a>
 
-<sub>Maternal age and chromosome abnormality risk · [MI] AHG2022Mitosis&Meiosis.pptx, page/slide 45.</sub>
+<sub>Maternal age and chromosome abnormality risk
 <a href="assets/review2/miscarriage-selection.jpg"><img src="assets/review2/miscarriage-selection.jpg" width="400" alt="Trisomy-specific survival and pregnancy loss" /></a>
-
-<sub>Trisomy-specific survival and pregnancy loss · [MI] AHG2022Mitosis&Meiosis.pptx, page/slide 46.</sub>
 
 ## Cell division
 
