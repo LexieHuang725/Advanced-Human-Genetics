@@ -107,11 +107,18 @@ a pair inherited from different parents - one inherited from your mother and one
 ## karyotype
 <img width="300" height="220" alt="image" src="https://github.com/user-attachments/assets/b834250e-a8d3-4cd6-b91b-422b081194f3" />
 
-Process: 5ml blood sample -> separate off red cells -> culture medium to have white cells suspension -> incubation -> add colchicine -> separate off white cells -> add hypotonic saline -> fix cells onto slides -> stain with chiesma -> photograph
+Process: 5ml blood sample -> add PHA to stick red cells together -> culture medium to have white cells suspension -> incubation -> add colchicine (spindle formation inhibitor) to block cells at metaphase -> nuclear membrane breaks down -> add hypotonic saline to lyse cells -> fix cells onto slides -> stain -> photograph
 <img width="320" height="280" alt="image" src="https://github.com/user-attachments/assets/29c5550b-14d3-41d0-ad22-8db9046a28ba" />
 
+### G banding
+* stained by Giesma, so **enzymatic exposure to trypsin**
+* dark & light bands
+
+### High revolution banding
+* when a chromosome abnormality is highly suspected but shows a normal G-banded
+karyotype
+
 ### Chromosome banding: 
-* stained by Giemsa, so **enzymatic exposure to trypsin**
 * stains **heterochromatin around centromere**
 * inherited SNPs on **1, 9, 16, Yq**
 * **dicentric chromosomes** can be deteced
@@ -157,6 +164,396 @@ Process: 5ml blood sample -> separate off red cells -> culture medium to have wh
 <img width="330" height="250" alt="image" src="https://github.com/user-attachments/assets/2124c5cf-d193-4ccb-9446-a454955ddfd3" />
 
 nondisjunction -> **Trisomy rescue**: Early in embryonic development, the cell attempts to self-correct by randomly expelling or losing one of the three chromosomes
+
+## FISH
+* probe is designed as complementary DNA(cDNA), and in the lab strands are denatured(separated), and when the probe is added, the DNA reanneal. The targeted sequence is visualized using fluorescence
+* **Use**
+  - determine fetal sex
+  - aneuploidy (13, 18, 21); triploidy
+  - translocation
+  - detect where is SRY in XX male
+  - dup, del
+  - marker chromosome
+ * **Limitation**
+   - need gene region of interest
+   - does not distinguish trisomy due to aneuploidy vs. chromosome rearrangement
+ <img width="293" height="155" alt="image" src="https://github.com/user-attachments/assets/7f9c8054-5f06-41d6-985c-b223817fa960" />
+<img width="311" height="225" alt="image" src="https://github.com/user-attachments/assets/e2912bb7-19ad-4168-8cc8-a3cf47dcd835" />
+<img width="310" height="138" alt="image" src="https://github.com/user-attachments/assets/7c5c8470-9dd8-42dd-9575-b45a435f121e" />
+
+ ## aCGH
+ * patient DNA vs. control
+   - ratio of the fluorescence of the test to reference signals can
+then be calculated for each spot of bacterial artificial chromosome (BAC) sequence or
+oligonucleotides on the array
+ * **Use**
+   - CNVs(del, dup)
+   - imbalanced translocation
+   - aneuploidy
+   - VUS
+ * **Limitation**
+   - cannot detect balanced translocation
+   - cannot detect triploidy
+<img width="365" height="255" alt="image" src="https://github.com/user-attachments/assets/e7365f22-1b85-4d84-ad59-cb028ad50309" />
+<img width="386" height="230" alt="image" src="https://github.com/user-attachments/assets/780692bc-91b5-4674-bb48-5d5a961bb8fa" />
+<img width="398" height="250" alt="image" src="https://github.com/user-attachments/assets/a55f6d31-b993-42e4-b28c-e4c7851b32c4" />
+
+## SNParray
+* **Use**
+  - UPD; consanguinity(ROH)
+  - imbalanced translocation
+  - del; dup
+  - triploidy, aneuploidy
+* **Limitation**
+  - higher VUS chance
+  - cannot detect balanced translocation
+## ACMG guidelines for using CMA for CNVs
+i. First line test in postnatal evaluation of those with multiple congenital
+anomalies and no known syndrome; DD/ID; ASD
+ii. Further determination of use for evaluation of child with growth delay, speech
+delay
+iii. Follow up when CNV is identified by CMA to include cytogenetic/FISH studies of patient, parental evaluations, and clinical genetic
+evaluation and counseling
+
+## Technique comparison
+* Resolution:
+  - G-banded karyotype: > 10 Mb (subjective)
+  - High resolution karyotype: 2-3 Mb
+  - CGH hybridized to metaphase chromosomes: 5-10 Mb
+  - Microarray CGH: 200 Kb depending on probe
+spacing and density
+  - FISH is not efficient for the entire genome (need phenotype)
+<img width="210" height="230" alt="image" src="https://github.com/user-attachments/assets/20612504-2ea7-4a2f-a7d3-7a73c314078f" />
+<img width="260" height="290" alt="image" src="https://github.com/user-attachments/assets/5c946c7d-c4e2-48e1-ba5e-8fb5ac189664" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/076b183c-626c-47df-ad8d-6a449bddd3bd" />
+
+| Feature | Karyotype | FISH | aCGH | SNP Array |
+|---|---|---|---|---|
+| Deletions/duplications | Yes | Yes | Yes | Yes |
+| Aneuploidy | Yes | Yes | Yes | Yes |
+| Balanced translocation | Yes | Yes | No | No |
+| Imbalanced translocation | Yes | Yes | Yes | Yes |
+| Triploidy | Yes | Yes | No | Yes |
+| UPD | No | No | No | Yes |
+| Regions of homozygosity / consanguinity | No | No | No | Yes |
+| Mosaicism | Yes | Yes | Yes(if 20% cells have) | Yes(if 20% cells have) |
+
+# Lesson 5 - Aneuploidy syndrome
+## Down syndrome — trisomy 21
+* Example: `47,XX,+21`
+* **Clinical Features**
+  - mild–moderate ID, hypotonia, short stature.
+  - flat nasal bridge, small mouth/ears
+  - Heart defects
+  - Hearing loss
+  - Thyroid disease
+  - diabetes, leukemia
+  - Alzheimer risk.
+* **Prevalence**
+  - 1/600 newborns**.
+* Confirm with chromosome analysis;(FISH can detect 3 signals, keryotype identify free trisomy vs. translocation).
+* **Etiology**
+  - **~95% nondisjunction**
+  - 3–4% translocation
+  - 1–2% mosaicism.
+* **Nondisjunction Recurrence**
+  - **1%** if any previous trisomy offpsrings
+  - next pregnancy maternal age (2% if age >35)
+* **Translocation risk**
+  - 25–50% of translocation cases are inherited.
+  - depend on sex of parents
+    - 10-15% if mother is carrier
+    - 1% if father is carrier
+    - 100% if isochromosome 21/21
+
+## Edwards syndrome — trisomy 18
+* Example: `47,XY,+18`
+* **Clinical Features**
+  - Prenatal/postnatal growth restriction
+  - single umbilical artery
+  - severe ID
+  - hypertonia
+  - rocker bottom feet, clenched hands
+  - heart, kidney, genitourinary malformation
+* **Etiology**
+  - usually **nondisjunction**(increase with advanced maternal age)
+  - rarely translocation.
+* **Survival rate**
+  - ~30% die by one month
+  - ~50% by two months
+  - ~10% survive one year
+  - most die early in embryonic or fetal life
+* **Recurrence risk**
+  - **1%** if any previous trisomy offsprings
+
+## Patau syndrome — trisomy 13
+* Example: `47,XX,+13`; nondisjunction, translocation, or mosaicism.
+* **Clinical Features**
+  - Holoprosencephaly, cleft lip/palate
+  - microcephaly
+  - polydactyly = extra digits
+  - Growth restriction, single umbilical artery
+  - heart/renal anomalies
+  - severe ID.
+* **Etiology**
+  - nondisjunction(risk increased with advanced maternal age)
+* **Survival rate**
+  - ~80% die in month one
+  - ~5% survive six months
+  - Most die early in embryonic or fetal life
+* **Recurrence**
+  - **~1%** if any previous trisomy offsprings; maternal-age effect
+  - increased chance for Robertsonian translocation(13;14)
+## X inactivation
+* XIC(located at Xq13)
+  - XIST gene: cis acting gene transcribed from inactive X, coats X chromatin
+  - inactive state is “locked in” by methylation of CpG islands
+## PAR regions
+* PAR1 and PAR2 are not inactivated
+  – 29 genes
+* PAR1: **SHOX** gene: skeletal disorder
+* Other non-PAR genes escape inactivation
+  – 15% total
+
+## Turner syndrome — 45,X
+* **Prevalence**
+  - * **99% of conceptions lost prenatally**
+  - 1/2,000–1/5,000 female live births
+* **Clinical Features**
+  - Short stature
+  - Webbed neck
+  - shield chest
+  - Gonadal dysgenesis, ovarian insufficiency, primary amenorrhea, infertility.
+  - **ID uncommon**
+* **Etiology**
+  - paternal X/Y is missing typically
+  - **Not associated with maternal age**, sporadic
+* If mosaic (45,X/46,XY), exploratory laparotomy indicated because of increased risk for
+gonadoblastoma
+* Estrogen replacement supports puberty
+
+## Klinefelter syndrome — 47,XXY
+* **Prevalence**
+  - 1/1,000 male births
+  - 1/10 azoopermic infertile males
+  - 1/100 males with learning difficulty
+* **Most common cause of hypogonadism and infertility in males**
+* **Clinical Features**
+  - small testes/penis
+  - low testosterone
+  - azoospermia/infertility
+  -  immaturity, shyness
+  -  15-20% have IQs below 80
+  -  40% Gynecomastia
+  -  Adult obesity risk
+* Additional X chromosomes generally increase clinical effects.
+
+## Trisomy X — 47,XXX
+* **Prevalence**
+  - 1/1,000 female births
+* **Etiology**
+  - Usually maternal meiotic nondisjunction
+  - maternal-age association
+* Normal phenotype
+  - ~75% fertile
+  - 15–25% mild learning difficulties.
+* Additional X chromosomes increase clinical effects.
+
+## XYY syndrome — 47,XYY
+
+* **Prevalence**
+  - 1/1,000 male births
+* Paternal MII nondisjunction
+  - No clear paternal-age association
+* Often normal phenotype
+  - taller-than-average stature.
+  - Learning/language or behavioral difficulties may occur.
+
+# Lesson 6 - Translocation
+## Deletion
+* **Terminal deletion:** distal segment lost after a breakpoint.
+* <a href="assets/review2/terminal-deletion.jpg"><img src="assets/review2/terminal-deletion.jpg" width="400" alt="Terminal deletion" /></a>
+
+* **Interstitial deletion:** internal segment lost between two breakpoints.
+* <a href="assets/review2/interstitial-deletion.jpg"><img src="assets/review2/interstitial-deletion.jpg" width="400" alt="Interstitial deletion" /></a>
+
+## Duplication
+<a href="assets/review2/tandem-duplication.jpg"><img src="assets/review2/tandem-duplication.jpg" width="400" alt="Tandem duplication" /></a>
+
+* **Tandem duplication:** repeated segment adjacent in the same orientation.
+* **Mirror/inverted duplication:** repeated segment has reversed orientation.
+* <a href="assets/review2/mirror-duplication.jpg"><img src="assets/review2/mirror-duplication.jpg" width="400" alt="Mirror duplication" /></a>
+
+## Insertion
+* Insertion usually requires three breaks.
+* Balanced rearrangement preserves dosage but may disrupt a gene/regulatory region.
+* Unbalanced rearrangement changes dosage and may cause miscarriage or congenital anomalies.
+* <a href="assets/review2/insertion.jpg"><img src="assets/review2/insertion.jpg" width="400" alt="Insertion rearrangement" /></a>
+
+### Isochromosomes
+<a href="assets/review2/isochromosome.jpg"><img src="assets/review2/isochromosome.jpg" width="400" alt="Isochromosome formation" /></a>
+
+## Reciprocal translocation
+<img width="267" height="212" alt="image" src="https://github.com/user-attachments/assets/ee3896b9-1fd1-4d44-805f-c6b52da8e31d" />
+
+* **1/500 are translocation carrier**
+  - Balanced carrier at risk of having children with multiple congenital anomalies
+* **Single-segment exchange**: one exchanged segment is very small/telomeric.
+* **Double-segment exchange**: both exchanged segments are large.
+<a href="assets/review2/derivative-pair.jpg"><img src="assets/review2/derivative-pair.jpg" width="400" alt="Reciprocal translocation derivatives and imbalance" /></a>
+
+* **Quadrivalent**: At meiosis, the four chromosomes with segments in common come together, seen at pachytene
+* segregation: distribution of the homolog
+* **Types**
+  - 2:2
+    - **alternative**: normal / balanced
+    - **adjacent 1**: like centromere travel together(most common)
+    - **adjacent 2**: unlike centromere travel together(least common)
+  - 3:1
+    - **tertiary**: two normal chromosomes and one translocation
+    - **interchange**: one normal chromosomes and two translocation
+  - 4:0 - not viable
+<img width="280" height="290" alt="image" src="https://github.com/user-attachments/assets/38df51c6-9850-4eaf-8317-24fab2e6b7b8" />
+
+## der(22)t(11;22)(q23;q11)
+* **most common human reciprocal translocation**
+* Most abnormal offspring have a tertiary trisomy
+  – Trisomy 11(q23)
+  – Trisomy 22(pter-q11)
+
+## Recurrence four factors:
+* The mode of ascertainment (counseling reason: affected child, miscarriage, infertility, or incidental finding.)
+* The predicted type of segregation leading to
+potential viable gametes
+* The sex of the transmitting parent
+* The assessed imbalance of the potentially viable gamete
+  - Risks range from 0% to 30% and depend on the actual cytogenetic imbalance
+<img width="331" height="200" alt="image" src="https://github.com/user-attachments/assets/2f5f4d6c-910e-44ab-b592-bab8a7a72ad7" />
+
+## Robertsonian Translocation
+* involve acrocentric D and G group chromosomes
+* **Frequency**: 1/1000
+* Balanced carriers example: 45,XX,der(14;21)(p10;q10)
+* Most robs are heterologous chromosomes
+* homologous robs are rare(usually de novo)
+* The rob(13q;21q) and the
+rob(14q;21q) are the most common
+* **Types**
+  - centric fusion
+  - one on q one on p, one of the centromeres get translocated WITH its q arm
+  - both on short arms - dicentric chromosome
+<img width="355" height="216" alt="image" src="https://github.com/user-attachments/assets/bfb7b0e2-4cab-4cb3-8b59-75fa5b9de2cd" />
+
+## Linked gene
+* Neighboring genes are deleted/duplicated together.
+* Gene dosage across the region produces the combined phenotype.
+* Common findings: DD/ID, dysmorphism, organ malformations.
+* Mechanisms include de novo events and aberrant recombination.
+* **Phenotype-first:** recognize syndrome, then identify chromosome cause.
+* **Genotype-first/reverse dysmorphology:** identify CNV, then characterize clinical variability.
+* CMA helped reveal variable and atypical presentations.
+* Historical resources in slides: **ECARUCA** and **RareChromo/Unique**.
+
+### NORs
+* The acrocentic chromosomes contain the nucleolar organizer regions(NOR) located in the stalks short arms
+* When the rob forms, NORs of the two fusion chromosomes are lost
+* Individuals with robs have 8 vs.10 NORs
+  - need 4-7 active NORs for normal cellular function
+
+### Heterologous robertsonian translocation
+* Following 2:1 segregation
+  – Alternate: normal and balanced gametes
+  – Adjacent: two types of disomic and nullisomic gametes
+  - 3:0 segregation is rare
+<img width="278" height="250" alt="image" src="https://github.com/user-attachments/assets/2b1cf929-a5a5-4bff-ae3c-c5a6f6295e88" />
+<img width="460" height="330" alt="image" src="https://github.com/user-attachments/assets/a3973e24-b77f-4000-9dca-c9f7d3d183da" />
+
+### UPD of translocation trisomy
+* UPD has imprinting effects for chromosomes 14 and 15
+* UPD has no effect for chromosomes 13, 21, and 22
+<img width="282" height="275" alt="image" src="https://github.com/user-attachments/assets/7e20df0e-a5f2-44a1-9dc1-ff8853a707db" />
+
+### Homologous Robertsonian Translocations
+* Only two outcomes are possible at meiosis 1:0 segregation:
+  – The gamete is disomic
+  – The gamete is nullisomic
+  – No gametes are balanced
+* **Only translocation trisomy 13 and 21 are viable**
+<img width="358" height="208" alt="image" src="https://github.com/user-attachments/assets/9995756c-4e6e-431d-8dad-30a4385700f0" />
+
+# Lesson 6 - deletion syndrome
+## 22q11.2 deletion syndrome
+* **Prevalence**
+  - 1/4,000 live births
+  - most common microdeletion syndrome
+* **Clinical Features**
+  - Conotruncal heart defects
+  - Immune deficiency, low Calcium
+  - Hearing loss
+  - DD/learning difficulties
+* **LCR misalignment → NAHR → recurrent deletion/duplication**.
+* **Etiology**
+  - Usually sporadic; inherited deletion follows **autosomal dominant** pattern
+
+* **Case:** 12 weeks, NT **4.2 mm** → broad differential, not a specific diagnosis.
+* Differential: chromosome disorder, isolated heart defect, single-gene disorder, genomic syndrome.
+* Case testing: **CVS + karyotype + prenatal array** → 22q11.2 deletion.
+* Follow-up: parental deletion testing and genetic counseling.
+* **18–22 weeks:** detailed ultrasound + fetal echocardiogram.
+* CMA detects the deletion; appropriate targeted FISH/MLPA can test a known familial deletion.
+
+## 1p36 deletion syndrome
+* **Prevalence**
+  - 1/5,000
+* **Etiology**
+  - 95% de novo
+* **Clinical Features**
+  - Hypotonia
+  - microcephaly
+  - growth delay
+  - severe learning difficulties
+  - epilepsy
+
+## Williams syndrome — 7q11.23 ELN deletion
+* **Clinical Features**
+  - Supravalvar aortic stenosis (SVAS)
+  - stellate iris, elfin face
+  - Growth/feeding difficulties
+  - hypotonia, DD/ID, endocrine abnormalities
+  - cocktail-party manner
+
+* **Case:** 3-year-old with feeding delay, stellate iris, and high BP → suspect Williams syndrome.
+* *Diagnostic deletion testing: CMA or appropriate targeted FISH/MLPA*
+
+## Cri-du-chat syndrome — 5p deletion
+* First chromosome deletion syndrome described
+* **Clinical Features**
+  - Cat-like cry
+  - microcephaly
+  - ID
+  - heart defects.
+* **Etiology**
+  - Usually de novo
+  - 10–15% parental translocation
+* *CMA defines dosage loss; karyotype/parental studies assess structural mechanism*
+
+## Wolf–Hirschhorn syndrome — 4p deletion
+* **Clinical Features**
+  - Prenatal/postnatal growth failure
+  - Greek warrior helmet
+  - microcephaly
+  - DD/ID
+  - seizures
+  - hypotonia.
+* Heart, renal, and skeletal abnormalities.
+* Mottled/dry skin and dental problems.
+
+* **Etiology**
+  - De novo
+  - 50% unbalanced translocation
+* Parental karyotypes matter when an unbalanced rearrangement is found.
+* *large deletions may be visible on karyotype; Subtle deletions require molecular testing/CMA*
+
 
 # Lesson 7 - Sex chromosome translocation
 ## X chromosome
