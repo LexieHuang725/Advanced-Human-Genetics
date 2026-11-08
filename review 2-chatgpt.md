@@ -520,6 +520,10 @@ Short notes consolidated from the 19 uploaded files. Course estimates are retain
 
 <sub>SNP allele clusters and copy-number states · [MC] AHG-MolecularCytogeneticsPPT.pptx, page/slide 15.</sub>
 
+<a href="assets/review2/snp-roh.jpg"><img src="assets/review2/snp-roh.jpg" width="400" alt="SNP array: ROH, UPD, and triploidy" /></a>
+
+<sub>SNP array: ROH, UPD, and triploidy · [MC] AHG-MolecularCytogeneticsPPT.pptx, page/slide 16.</sub>
+
 
 ### CNVs, array scope, and follow-up
 
@@ -724,6 +728,10 @@ Short notes consolidated from the 19 uploaded files. Course estimates are retain
 * Imaging cannot predict all later learning, immune, or psychiatric effects.
 * CMA detects the deletion; appropriate targeted FISH/MLPA can test a known familial deletion.
 
+
+<a href="assets/review2/22q11-features.jpg"><img src="assets/review2/22q11-features.jpg" width="400" alt="22q11.2 deletion phenotype examples" /></a>
+
+<sub>22q11.2 deletion phenotype examples · [DE] Deletion syndromes.pdf, page/slide 9.</sub>
 
 <a href="assets/review2/22q11-nahr.jpg"><img src="assets/review2/22q11-nahr.jpg" width="400" alt="Low-copy repeats and recurrent 22q11.2 rearrangements" /></a>
 
