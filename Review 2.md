@@ -242,4 +242,5 @@ dups, isochromosomes) are inactivated
 * cannot produce unbalanced offspring (dicentric/acentric) - both nonviable
   - **0.1%** risk of abnormal offspring
   - Familial paracentric inv(X) has no phenotypic consequence, but breakpoints may impact fertility
+**In inversion, if a recomb case is not seen in the family, chances of having a recomb child is 1%; but if recomb case is found, then 5-15% chance of having a recurrence**
 <!-- Study notes backup -->
