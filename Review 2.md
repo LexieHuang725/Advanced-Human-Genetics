@@ -157,3 +157,89 @@ Process: 5ml blood sample -> separate off red cells -> culture medium to have wh
 <img width="330" height="250" alt="image" src="https://github.com/user-attachments/assets/2124c5cf-d193-4ccb-9446-a454955ddfd3" />
 
 nondisjunction -> **Trisomy rescue**: Early in embryonic development, the cell attempts to self-correct by randomly expelling or losing one of the three chromosomes
+
+# Lesson 7 - Sex chromosome translocation
+## X chromosome
+* Aneuploidy for X is among the most common cytogenic abnormalities
+* Relative tolerance for X chromosome abnormalities compared to autosomes (thanks to X-inactivation)
+## X inactivation Mosaicism
+* Expression of maternal X vs. paternal X is typically 50:50
+ - 90% of females fall within a range of 75:25 to 25:75
+* Skewed X-inactivation: when one X is preferentially inactivated
+  - Structurally abnormal X chromosomes (dels,
+dups, isochromosomes) are inactivated
+  - X;autosome translocations
+    - Balanced carrier – normal X is inactivated
+    - Unbalanced offspring – der(X) is inactivated
+
+* **examples**:
+  - X-linked Anhidrotic ectodermal dysplasia
+  - Calico cats
+  - <img width="225" height="157" alt="image" src="https://github.com/user-attachments/assets/708f568a-5d90-4c20-bc15-17aa48997a62" />
+
+## Malsegregation
+* Adjacent-1:
+  - risk of functional X disomy (XX + der auto w. X segment) or X deletion
+  - Risk of autosomal deletion or duplication
+* Adjacent-2
+  - Risk of X del/auto dup, X dup/auto del
+* 3:1 Tertiary Trisomy
+  - Risk of X dup, X dup/auto dup
+* 3:1 Tertiary Monosomy
+  - Risk of X del/auto del
+## Balanced auto-X translocation
+* 50% of female carrier and male carriers are infertile
+* fertile females at risk of having abnormal children
+  - mild(Turner/Klinefelter) to severe(partial X functional disomy/autosomal aneuploidy)
+* each translocation needs to be assessed:
+  - what genes are dep/del
+  - breakpoints
+## Y chromosome
+* **SRY** - testis-determining gene (Yp near PAR1)
+* loss of PAR2: no phenotype consequence
+* **AZFa,b,c**: reproductive health
+* 50% of Y is inert heterochromatic region
+* **70% of t(Y;A) - auto is acrocetric**
+  - breakpoint q12 in Y: fertile
+  - 50% is chr 15
+* reciprocal exchange between Yq & autosome:
+  - Y breakpoint q11.2/q12
+  - typically de novo
+  - infertility might be factor(bc AZF is in Yq11)
+
+# Lesson 8 - Inversion
+* **Types**
+  - pericentric - involves centromere
+  - paracentric - on short/long arm
+* crossing over:
+  - Normal homolog: aa’
+  - Inverted homolog: bb’
+  - Recombinant homolog: cc’dup(p)
+  - Recombinant homolog: dd’dup(q
+ 
+## Pericentric inversion X
+* breakpoint: may impact female phenotype
+  - gonadal dysfunction (amenorrhea or premature menopause)
+  - stature(SHOX-PAR1); ovarian(Xq, PAR2)
+* Imbalance in 46,X,rec(X) female:
+  - Del(Xq)/dup(Xp): normal or tall stature and ovarian dysgenesis
+  - Del (Xp)/dup(Xq): short stature and intact ovarian function
+* X inversions can be transmitted by both males and females
+  - Males inv(x) hemizygotes: no effect on phenotype or reproduction
+  - No recombination possible at meiosis
+  - All daughters will be heterozygotes and all sons receive the normal Y
+* **Benign variant** (no phenotype)
+ - Inv(Y)(p11q13)
+   - No phenotypic or reproductive effect
+ - Autosomal: inv(2)(p11q13) and inversions of 1, 9, 16, and Y heterochromatin
+* Ascertainment via recombinant child: 5-15%
+* No family history of recombinant form: overall 1%
+* Prenatal diagnosis:
+ - if any heterozygote whose family had a recombinant child
+ - any heterozygote with an inversion involving chromosome 13, 18 & 21
+* Molecular analysis to exclude deletion in the Prader-Willi/Angelman breakpoints
+## Paracentric inversion
+* cannot produce unbalanced offspring (dicentric/acentric) - both nonviable
+  - **0.1%** risk of abnormal offspring
+  - Familial paracentric inv(X) has no phenotypic consequence, but breakpoints may impact fertility
+<!-- Study notes backup -->
