@@ -369,6 +369,32 @@ gonadoblastoma
   - taller-than-average stature.
   - Learning/language or behavioral difficulties may occur.
 
+# Lesson 5 - TBL
+## Genetic marker
+* sequence with a known location on a chromosome
+* **types**
+  - RFLPs: restriction fragment length polymorphisms; Southern Blot or PCR
+  - VNTRs: variable number tandem repeats(microsatellites); PCR
+  - SNPs: single nucleotide polymorphisms; Microarray
+
+## Linkage analysis
+* A technique used for DNA mapping/discovery
+* Genes that are near each other are less likely
+to be separated by crossing over - linked
+  - Completely linked = recombination frequency of 0
+  - Unlinked = recombination frequency of 0.5
+* Independent Assortment:
+  - 50% parental (nonrecombinant) chromosomes
+  - 50% nonparental (recombinant) chromosomes
+* Linkage is a departure from independent assortment
+<img width="207" height="336" alt="image" src="https://github.com/user-attachments/assets/9e421060-6412-45e6-91d2-3559f0049120" />
+* other uses for genetic marker
+  - Chromosome tracking (for preimplantation genetic testing of monogenic conditions)
+  - DNA Profiling(for paternity or forensic analysis)
+<img width="227" height="304" alt="image" src="https://github.com/user-attachments/assets/986e8518-3066-4ef8-90fa-e1816f5ac299" />
+<img width="382" height="229" alt="image" src="https://github.com/user-attachments/assets/a078d46f-4080-4708-a57f-9e3631765cae" />
+<img width="360" height="260" alt="image" src="https://github.com/user-attachments/assets/9d8bcea1-16ee-4f41-923a-17d160b88966" />
+
 # Lesson 6 - Translocation
 ## Deletion
 * **Terminal deletion:** distal segment lost after a breakpoint.
