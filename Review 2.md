@@ -415,6 +415,7 @@ to be separated by crossing over - linked
   - 50% nonparental (recombinant) chromosomes
 * Linkage is a departure from independent assortment
 <img width="207" height="336" alt="image" src="https://github.com/user-attachments/assets/9e421060-6412-45e6-91d2-3559f0049120" />
+
 * other uses for genetic marker
   - Chromosome tracking (for preimplantation genetic testing of monogenic conditions)
   - DNA Profiling(for paternity or forensic analysis)
