@@ -62,8 +62,8 @@ a pair inherited from different parents - one inherited from your mother and one
   - <img width="160" height="180" alt="image" src="https://github.com/user-attachments/assets/a31c841e-fed9-41a2-a7d5-688b05fcb1b7" />
 
 ## Meiosis
-* **Meiosis I**: four stages: prophase, metaphase, anaphase, telophase
-  - **prophase I** is much more complicated
+* **Meiosis I(2n->n)**: four stages: prophase, metaphase, anaphase, telophase
+  - **prophase I** - **crossing over**
   - **prophase I** in oocyte can span for 40 or more years
   - end of prophase I: **chiasmata** - crossing over point between homologous chromosomes
   - **bivalent**: homologue pair held tgt by chiasmata, form in **metaphase I**
@@ -165,8 +165,15 @@ karyotype
 
 nondisjunction -> **Trisomy rescue**: Early in embryonic development, the cell attempts to self-correct by randomly expelling or losing one of the three chromosomes
 
+## karyotype
+* **Use**
+  - family has structure rearrangement, confirm w karyotype
+  - aneuploidy
+  - woman with multiple miscarriages
+  - prenatal diagnosis (amnios)
 ## FISH
 * probe is designed as complementary DNA(cDNA), and in the lab strands are denatured(separated), and when the probe is added, the DNA reanneal. The targeted sequence is visualized using fluorescence
+* Use for FAST diagnoses of very SPECIFIC conditions
 * **Use**
   - determine fetal sex
   - aneuploidy (13, 18, 21); triploidy
@@ -181,24 +188,39 @@ nondisjunction -> **Trisomy rescue**: Early in embryonic development, the cell a
 <img width="311" height="225" alt="image" src="https://github.com/user-attachments/assets/e2912bb7-19ad-4168-8cc8-a3cf47dcd835" />
 <img width="310" height="138" alt="image" src="https://github.com/user-attachments/assets/7c5c8470-9dd8-42dd-9575-b45a435f121e" />
 
- ## aCGH
- * patient DNA vs. control
-   - ratio of the fluorescence of the test to reference signals can
+## Microarray
+* **postnatal - when to order**
+   - multiple congenital abnormality and no known syndrome
+   - DD/ID
+   - ASD
+### aCGH - unclear phenotype so scan the chromosome
+* patient DNA vs. control
+  - ratio of the fluorescence of the test to reference signals can
 then be calculated for each spot of bacterial artificial chromosome (BAC) sequence or
 oligonucleotides on the array
- * **Use**
-   - CNVs(del, dup)
-   - imbalanced translocation
-   - aneuploidy
-   - VUS
- * **Limitation**
-   - cannot detect balanced translocation
-   - cannot detect triploidy
+  - Equal amounts = shared colour
+  - Gain, Too much = more patient colour +1
+  - Loss, Too little = more control colour -1
+* **Use**
+  - CNVs(del, dup)
+  - imbalanced translocation
+  - aneuploidy
+  - ID/ASD(ASD can be caused by CNVs)
+* **Limitation**
+  - cannot detect balanced translocation or UPD
+  - cannot detect triploidy
+  - VUS chance high
 <img width="365" height="255" alt="image" src="https://github.com/user-attachments/assets/e7365f22-1b85-4d84-ad59-cb028ad50309" />
 <img width="386" height="230" alt="image" src="https://github.com/user-attachments/assets/780692bc-91b5-4674-bb48-5d5a961bb8fa" />
 <img width="398" height="250" alt="image" src="https://github.com/user-attachments/assets/a55f6d31-b993-42e4-b28c-e4c7851b32c4" />
 
-## SNParray
+### SNParray
+<img width="260" height="135" alt="image" src="https://github.com/user-attachments/assets/1f428342-6c4b-4a67-afc9-a25272b7d857" />
+
+* **How to read**
+  - AA-mom AB- kid BB- dad
+  - Loss of middle line (AB)? - loss of heterozygosity
+  - Four lines? Triploid (AAA, AAB, BBA, BBB)
 * **Use**
   - UPD; consanguinity(ROH)
   - imbalanced translocation
@@ -207,6 +229,7 @@ oligonucleotides on the array
 * **Limitation**
   - higher VUS chance
   - cannot detect balanced translocation
+
 ## ACMG guidelines for using CMA for CNVs
 i. First line test in postnatal evaluation of those with multiple congenital
 anomalies and no known syndrome; DD/ID; ASD
@@ -231,7 +254,7 @@ spacing and density
 |---|---|---|---|---|
 | Deletions/duplications | Yes | Yes | Yes | Yes |
 | Aneuploidy | Yes | Yes | Yes | Yes |
-| Balanced translocation | Yes | Yes | No | No |
+| Balanced translocation | Yes(first choice) | Yes | No | No |
 | Imbalanced translocation | Yes | Yes | Yes | Yes |
 | Triploidy | Yes | Yes | No | Yes |
 | UPD | No | No | No | Yes |
@@ -239,10 +262,12 @@ spacing and density
 | Mosaicism | Yes | Yes | Yes(if 20% cells have) | Yes(if 20% cells have) |
 
 # Lesson 5 - Aneuploidy syndrome
+* FISH is quick, followed with chromosome analysis(karyotype); Microarray can also detect
 ## Down syndrome — trisomy 21
 * Example: `47,XX,+21`
 * **Clinical Features**
-  - mild–moderate ID, hypotonia, short stature.
+  - increased NT in ultrasound
+  - mild–moderate ID, hypotonia, short stature
   - flat nasal bridge, small mouth/ears
   - Heart defects
   - Hearing loss
@@ -289,11 +314,12 @@ spacing and density
 ## Patau syndrome — trisomy 13
 * Example: `47,XX,+13`; nondisjunction, translocation, or mosaicism.
 * **Clinical Features**
-  - Holoprosencephaly, cleft lip/palate
+  - **Holoprosencephaly**, cleft lip/palate
   - microcephaly
-  - polydactyly = extra digits
+  - hypotonia
+  - **polydactyly** = extra digits
   - Growth restriction, single umbilical artery
-  - heart/renal anomalies
+  - heart/renal anomalies - **horseshoe kidney**
   - severe ID.
 * **Etiology**
   - nondisjunction(risk increased with advanced maternal age)
@@ -305,17 +331,18 @@ spacing and density
   - **~1%** if any previous trisomy offsprings; maternal-age effect
   - increased chance for Robertsonian translocation(13;14)
 ## X inactivation
-* XIC(located at Xq13)
+* XIC(located at **Xq13**)
   - XIST gene: cis acting gene transcribed from inactive X, coats X chromatin
   - inactive state is “locked in” by methylation of CpG islands
 ## PAR regions
 * PAR1 and PAR2 are not inactivated
   – 29 genes
 * PAR1: **SHOX** gene: skeletal disorder
+* PAR2: fertility genes (amenhorrea, ovarian dysgenesis)
 * Other non-PAR genes escape inactivation
   – 15% total
 
-## Turner syndrome — 45,X
+## Turner syndrome — 45,X(paternal X/Y loss: not associated with AMA)
 * **Prevalence**
   - * **99% of conceptions lost prenatally**
   - 1/2,000–1/5,000 female live births
@@ -447,23 +474,14 @@ to be separated by crossing over - linked
   – Trisomy 11(q23)
   – Trisomy 22(pter-q11)
 
-## Recurrence four factors:
-* The mode of ascertainment (counseling reason: affected child, miscarriage, infertility, or incidental finding.)
-* The predicted type of segregation leading to
-potential viable gametes
-* The sex of the transmitting parent
-* The assessed imbalance of the potentially viable gamete
-  - Risks range from 0% to 30% and depend on the actual cytogenetic imbalance
-<img width="331" height="200" alt="image" src="https://github.com/user-attachments/assets/2f5f4d6c-910e-44ab-b592-bab8a7a72ad7" />
-
-## Robertsonian Translocation
-* involve acrocentric D and G group chromosomes
+## Robertsonian Translocation (12345 RULE)
+* involve acrocentric chromosomes(13,14,15,21,22 chromosomes)
+* nonmenclature: rob(13;21); der(14;21)
 * **Frequency**: 1/1000
 * Balanced carriers example: 45,XX,der(14;21)(p10;q10)
 * Most robs are heterologous chromosomes
 * homologous robs are rare(usually de novo)
-* The rob(13q;21q) and the
-rob(14q;21q) are the most common
+* The rob(13q;21q) and the rob(14q;21q) are the most common
 * **Types**
   - centric fusion
   - one on q one on p, one of the centromeres get translocated WITH its q arm
@@ -499,22 +517,41 @@ rob(14q;21q) are the most common
 * UPD has no effect for chromosomes 13, 21, and 22
 <img width="282" height="275" alt="image" src="https://github.com/user-attachments/assets/7e20df0e-a5f2-44a1-9dc1-ff8853a707db" />
 
+## Recurrence four factors:
+* The mode of ascertainment (counseling reason: affected child, miscarriage, infertility, or incidental finding.)
+* The predicted type of segregation leading to
+potential viable gametes
+* The sex of the transmitting parent
+* The assessed imbalance of the potentially viable gamete
+  - Risks range from 0% to 30% and depend on the actual cytogenetic imbalance
+<img width="331" height="200" alt="image" src="https://github.com/user-attachments/assets/2f5f4d6c-910e-44ab-b592-bab8a7a72ad7" />
+
 ### Homologous Robertsonian Translocations
 * Only two outcomes are possible at meiosis 1:0 segregation:
   – The gamete is disomic
   – The gamete is nullisomic
   – No gametes are balanced
-* **Only translocation trisomy 13 and 21 are viable**
+* **Only translocation trisomy 13 and 21 are viable(18 is not an acrocentric chromosome, so cannot have rob)**
 <img width="358" height="208" alt="image" src="https://github.com/user-attachments/assets/9995756c-4e6e-431d-8dad-30a4385700f0" />
 
+## Compare reciprocal vs. Robertsonian
+<img width="460" height="220" alt="image" src="https://github.com/user-attachments/assets/3c0759fc-5309-4395-ac2a-de0bc85a4b2a" />
+
+* **reciprocal**: mode of ascertainment matter for recurrence risk(live born vs. recurrent miscarriage)
+* sex of carrier parent important for recurrence risk (maternal > paternal)
 # Lesson 6 - deletion syndrome
+* diagnosed by:
+  - FISH
+  - Microarray
+  - (karyotyoe usually not useful)
 ## 22q11.2 deletion syndrome
 * **Prevalence**
   - 1/4,000 live births
-  - most common microdeletion syndrome
+  - **most common microdeletion syndrome**
 * **Clinical Features**
+  - increased NT in ultrasound
   - Conotruncal heart defects
-  - Immune deficiency, low Calcium
+  - Immune deficiency, **low Calcium**
   - Hearing loss
   - DD/learning difficulties
 * **LCR misalignment → NAHR → recurrent deletion/duplication**.
@@ -539,7 +576,7 @@ rob(14q;21q) are the most common
   - growth delay
   - severe learning difficulties
   - epilepsy
-
+  - straight eyebrow(just like 1)
 ## Williams syndrome — 7q11.23 ELN deletion
 * **Clinical Features**
   - Supravalvar aortic stenosis (SVAS)
@@ -566,7 +603,7 @@ rob(14q;21q) are the most common
 ## Wolf–Hirschhorn syndrome — 4p deletion
 * **Clinical Features**
   - Prenatal/postnatal growth failure
-  - Greek warrior helmet
+  - Greek warrior helmet face(high arched eyebrows)
   - microcephaly
   - DD/ID
   - seizures
@@ -594,6 +631,7 @@ dups, isochromosomes) are inactivated
   - X;autosome translocations
     - Balanced carrier – normal X is inactivated
     - Unbalanced offspring – der(X) is inactivated
+* For the mosaicism, the **large skewed** proportion it is, **later** in embryonic development the nondisjunction error happened; or more cell differences[eg.(XY)(X)(XYY)]
 
 * **examples**:
   - X-linked Anhidrotic ectodermal dysplasia
@@ -652,9 +690,9 @@ dups, isochromosomes) are inactivated
   - No recombination possible at meiosis
   - All daughters will be heterozygotes and all sons receive the normal Y
 * **Benign variant** (no phenotype)
- - Inv(Y)(p11q13)
+ - **Inv(Y)(p11q13)**
    - No phenotypic or reproductive effect
- - Autosomal: inv(2)(p11q13) and inversions of 1, 9, 16, and Y heterochromatin
+ - Autosomal: **inv(2)(p11q13)** and inversions of **1, 9, 16, and Y heterochromatin**
 * Ascertainment via recombinant child: 5-15%
 * No family history of recombinant form: overall 1%
 * Prenatal diagnosis:
@@ -666,4 +704,6 @@ dups, isochromosomes) are inactivated
   - **0.1%** risk of abnormal offspring
   - Familial paracentric inv(X) has no phenotypic consequence, but breakpoints may impact fertility
 **In inversion, if a recomb case is not seen in the family, chances of having a recomb child is 1%; but if recomb case is found, then 5-15% chance of having a recurrence**
-<!-- Study notes backup -->
+
+## Pericentric vs. paracentric inversions
+<img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/7e3261c2-17ee-493f-9c7a-348611f5f7f8" />
