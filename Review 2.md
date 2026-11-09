@@ -708,3 +708,9 @@ dups, isochromosomes) are inactivated
 
 ## Pericentric vs. paracentric inversions
 <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/7e3261c2-17ee-493f-9c7a-348611f5f7f8" />
+
+# TIPs and things to remember
+* Do not forget about the shape of chromosome(acrocentric(12345)-robs) when looking at the type of translocation
+* Pay attention to breakpoints
+* LOOK AT QUESTION CAREFULLY
+* track up and down pedigree and CHECK CAREFULLY
