@@ -714,3 +714,21 @@ dups, isochromosomes) are inactivated
 * Pay attention to breakpoints
 * LOOK AT QUESTION CAREFULLY
 * track up and down pedigree and CHECK CAREFULLY
+* chromosome 1,9,16,Y: benign inversion
+* chromosome 13,21: only viable homologous rob recombinations
+* chromosome 12,13,14,15,21,22: robertsonian translocation
+* chromosome 14,15: UPD imprinting effect of robs translocation
+* 50% of t(A,Y) is caused by chromosome 15
+* t(12;18): reciprocal translocation; 45,XY,der(13,21): robs translocation
+* FISH: multiple miscarriages, prenatal diagnosis; quick aneuploidy check; family history of chromosome rearrangement
+* FISH cannot distinguish nondisjunction from imbalanced translocation
+* aCGH cannot detect triploidy
+* mar(): marker(RFLP; VNTR; SNPs)
+* recurrence risk for aneuploidy syndrome: 1.7 morbility ratio x baseline risk
+* indication for chromosome testing: miscarriage, neoplasia, fertility problem, AMA, family history
+* most common chromosomal cause of first trimester miscarriage
+* der chromosome is defined by its centromere
+* single segment exchange: one translocated segment is small/double segment exchange: both segments translocated are big
+* 22q11 del: most common microdel syndrome
+* der(22)t(11,22)(q23;q11): most common reciprocal translocation
+* adjacent 2: centric segment small/translocation segment big
