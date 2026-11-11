@@ -712,6 +712,7 @@ dups, isochromosomes) are inactivated
 # TIPs and things to remember
 * Do not forget about the shape of chromosome(acrocentric(12345)-robs) when looking at the type of translocation
 * Pay attention to breakpoints
+* if you see robs translocation, and there are THREE chromosomes, don't see it as balanced jst bc you only see one chromosome in the other. IT IS NOT BALANCED!
 * LOOK AT QUESTION CAREFULLY
 * track up and down pedigree and CHECK CAREFULLY
 * chromosome Inv(Y)(p11q13), inv(2)(p11q13), 1,9,16,Y: benign inversion
