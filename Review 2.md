@@ -717,7 +717,7 @@ dups, isochromosomes) are inactivated
 * chromosome 1,9,16,Y: benign inversion
 * chromosome 13,21: only viable homologous rob recombinations
 * chromosome 12,13,14,15,21,22: robertsonian translocation
-* chromosome 14,15: UPD imprinting effect of robs translocation
+* chromosome 14,15: UPD imprinting effect of robs translocation (SO MUST TEST FOR UPD IF 14,15 BALANCED ROBS)
 * 50% of t(A,Y) is caused by chromosome 15
 * t(12;18): reciprocal translocation; 45,XY,der(13,21): robs translocation
 * FISH: multiple miscarriages, prenatal diagnosis; quick aneuploidy check; family history of chromosome rearrangement
