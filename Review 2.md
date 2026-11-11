@@ -714,7 +714,7 @@ dups, isochromosomes) are inactivated
 * Pay attention to breakpoints
 * LOOK AT QUESTION CAREFULLY
 * track up and down pedigree and CHECK CAREFULLY
-* chromosome 1,9,16,Y: benign inversion
+* chromosome Inv(Y)(p11q13), inv(2)(p11q13), 1,9,16,Y: benign inversion
 * chromosome 13,21: only viable homologous rob recombinations
 * chromosome 12,13,14,15,21,22: robertsonian translocation
 * chromosome 14,15: UPD imprinting effect of robs translocation (SO MUST TEST FOR UPD IF 14,15 BALANCED ROBS)
@@ -732,3 +732,12 @@ dups, isochromosomes) are inactivated
 * 22q11 del: most common microdel syndrome
 * der(22)t(11,22)(q23;q11): most common reciprocal translocation
 * adjacent 2: centric segment small/translocation segment big
+* balanced X;autosome translocation: 50% female and all male carrier infertile
+* to test X inactivation - PCR testing for CAG repeat in AR
+* PAR2 loss seem to have no consequence in phenotype
+* AZF is in Yq11, so Y;A translocation breakpoint is important
+* female present with primary amenorrhea or premature menopause, no dup;del in X chromosome in CMA: inversion breapoint in X matters
+* If one is 46, X, rec(X) after inversion, the recombinant X is inactivated
+* chromosome breakpoint 15q11-13: imprinting(prader-willi/angelman)
+* most common infertility cause in male: Klinefelter syndrome
+* 1p del syndrome emerged bc of FISH
