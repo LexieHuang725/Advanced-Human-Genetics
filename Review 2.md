@@ -741,3 +741,7 @@ dups, isochromosomes) are inactivated
 * chromosome breakpoint 15q11-13: imprinting(prader-willi/angelman)
 * most common infertility cause in male: Klinefelter syndrome
 * 1p del syndrome emerged bc of FISH
+* risk factor that matters:
+* | reciprocal | robertsonian | pericentric inv | paracentric inv |
+  |---|---|---|---|
+  |mode of ascertainment | sex of the parents | mode of ascertainment(5-15% if recomb live birth; 1% if only miscarriages) | 0.1% |
