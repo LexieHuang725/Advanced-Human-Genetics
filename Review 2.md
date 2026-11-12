@@ -181,6 +181,7 @@ nondisjunction -> **Trisomy rescue**: Early in embryonic development, the cell a
   - detect where is SRY in XX male
   - dup, del
   - marker chromosome
+  - orientation of duplication(tandem/mirror);insertion(inverted/direct)
  * **Limitation**
    - need gene region of interest
    - does not distinguish trisomy due to aneuploidy vs. chromosome rearrangement
@@ -226,6 +227,7 @@ oligonucleotides on the array
   - imbalanced translocation
   - del; dup
   - triploidy, aneuploidy
+  - when asked what gene or size of deletion of the del syndromes
 * **Limitation**
   - higher VUS chance
   - cannot detect balanced translocation
@@ -504,7 +506,8 @@ to be separated by crossing over - linked
 * When the rob forms, NORs of the two fusion chromosomes are lost
 * Individuals with robs have 8 vs.10 NORs
   - need 4-7 active NORs for normal cellular function
-
+* loss of NOR signal does not mean the loss of all acrocentric short arm; vice versa: A marker can retain that stalk region even if other parts of the short arm are missing.
+  
 ### Heterologous robertsonian translocation
 * Following 2:1 segregation
   – Alternate: normal and balanced gametes
@@ -743,6 +746,7 @@ dups, isochromosomes) are inactivated
 * most common infertility cause in male: Klinefelter syndrome
 * 1p del syndrome emerged bc of FISH
 * use SNParray when asked what gene or size of deletion of the del syndromes
+* use FISH probes for orientation of insertion/dup, see if it is inverted or not; tandem or mirror dup.
 * if it's 46, X, der(X), t(X;A), but the der(X) doesn't have XIC, then the normal X will be inactivated, resulting in severe Turner syndrome
 * risk factor that matters:
 * | reciprocal | robertsonian | pericentric inv | paracentric inv |
