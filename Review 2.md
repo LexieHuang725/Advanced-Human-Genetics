@@ -681,7 +681,10 @@ dups, isochromosomes) are inactivated
   - Inverted homolog: bb’
   - Recombinant homolog: cc’dup(p)
   - Recombinant homolog: dd’dup(q
- 
+
+**In inversion, if a recomb case is not seen in the family, chances of having a recomb child is 1%; but if recomb case is found, then 5-15% chance of having a recurrence**
+
+
 ## Pericentric inversion X
 * breakpoint: may impact female phenotype
   - gonadal dysfunction (amenorrhea or premature menopause)
@@ -707,7 +710,6 @@ dups, isochromosomes) are inactivated
 * cannot produce unbalanced offspring (dicentric/acentric) - both nonviable
   - **0.1%** risk of abnormal offspring
   - Familial paracentric inv(X) has no phenotypic consequence, but breakpoints may impact fertility
-**In inversion, if a recomb case is not seen in the family, chances of having a recomb child is 1%; but if recomb case is found, then 5-15% chance of having a recurrence**
 
 ## Pericentric vs. paracentric inversions
 <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/7e3261c2-17ee-493f-9c7a-348611f5f7f8" />
