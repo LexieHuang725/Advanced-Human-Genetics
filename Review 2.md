@@ -750,6 +750,9 @@ dups, isochromosomes) are inactivated
 * use SNParray when asked what gene or size of deletion of the del syndromes
 * use FISH probes for orientation of insertion/dup, see if it is inverted or not; tandem or mirror dup.
 * if it's 46, X, der(X), t(X;A), but the der(X) doesn't have XIC, then the normal X will be inactivated, resulting in severe Turner syndrome
+* For trisomy: if the sources of trisomy is not sure(nondisjunction/translocation): karyotype
+               if sure, and want to check which stage of nondisjunction: Trio
+* Karyotype: pericentromeric means near centrosome(for near centrosome or heterochromatins, use C banding)
 * risk factor that matters:
 * | reciprocal | robertsonian | pericentric inv | paracentric inv |
   |---|---|---|---|
