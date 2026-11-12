@@ -743,6 +743,7 @@ dups, isochromosomes) are inactivated
 * most common infertility cause in male: Klinefelter syndrome
 * 1p del syndrome emerged bc of FISH
 * use SNParray when asked what gene or size of deletion of the del syndromes
+* if it's 46, X, der(X), t(X;A), but the der(X) doesn't have XIC, then the normal X will be inactivated, resulting in severe Turner syndrome
 * risk factor that matters:
 * | reciprocal | robertsonian | pericentric inv | paracentric inv |
   |---|---|---|---|
