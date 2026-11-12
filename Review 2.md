@@ -732,7 +732,7 @@ dups, isochromosomes) are inactivated
 * mar(): marker(RFLP; VNTR; SNPs)
 * recurrence risk for aneuploidy syndrome: 1.7 morbility ratio x baseline risk
 * indication for chromosome testing: miscarriage, neoplasia, fertility problem, AMA, family history
-* most common chromosomal cause of first trimester miscarriage
+* most common chromosomal cause of first trimester miscarriage - aneuploidy
 * der chromosome is defined by its centromere
 * single segment exchange: one translocated segment is small/double segment exchange: both segments translocated are big
 * 22q11 del: most common microdel syndrome
