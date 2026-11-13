@@ -459,7 +459,7 @@ to be separated by crossing over - linked
 * **1/500 are translocation carrier**
   - Balanced carrier at risk of having children with multiple congenital anomalies
 * **Single-segment exchange**: one exchanged segment is very small/telomeric.
-* **Double-segment exchange**: both exchanged segments are large.
+* **Double-segment exchange**: both exchanged segments are large. (depends on translocated segment, not centric segment)
 <a href="assets/review2/derivative-pair.jpg"><img src="assets/review2/derivative-pair.jpg" width="400" alt="Reciprocal translocation derivatives and imbalance" /></a>
 
 * **Quadrivalent**: At meiosis, the four chromosomes with segments in common come together, seen at pachytene
