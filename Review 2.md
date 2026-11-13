@@ -261,6 +261,7 @@ spacing and density
 | Aneuploidy | Yes | Yes | Yes | Yes |
 | Balanced translocation | Yes(first choice) | Yes | No | No |
 | Imbalanced translocation | Yes | Yes | Yes | Yes |
+| Balanced inversion | Yes | Yes(two probes) | No | No |
 | Triploidy | Yes | Yes | No | Yes |
 | UPD | No | No | No | Yes |
 | Regions of homozygosity / consanguinity | No | No | No | Yes |
