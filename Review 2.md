@@ -756,6 +756,12 @@ dups, isochromosomes) are inactivated
 * For trisomy: if the sources of trisomy is not sure(nondisjunction/translocation): karyotype
                if sure, and want to check which stage of nondisjunction: Trio
 * Karyotype: pericentromeric means near centrosome(for near centrosome or heterochromatins, use C banding)
+* mosaicism normally use FISH,
+* | What is the question asking? | Think |
+|---|---|
+| “What fraction of cells in this skin sample has extra **12p**?” | **Interphase FISH on affected skin**, preferably uncultured if the goal is to estimate the fraction before culture. |
+| “There may be a mosaic gain or loss, but we don’t know where.” | **Chromosomal microarray on the affected tissue** for a genome-wide dosage survey. It averages across cells and can miss low-level mosaicism. |
+| “What do the different chromosome sets actually look like?” | **Karyotype** to see chromosome number and structure cell by cell. **Metaphase FISH** can help identify material on a specific chromosome. |
 * risk factor that matters:
 * | reciprocal | robertsonian | pericentric inv | paracentric inv |
   |---|---|---|---|
