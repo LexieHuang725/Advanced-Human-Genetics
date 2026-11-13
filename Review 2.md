@@ -108,7 +108,10 @@ a pair inherited from different parents - one inherited from your mother and one
 <img width="300" height="220" alt="image" src="https://github.com/user-attachments/assets/b834250e-a8d3-4cd6-b91b-422b081194f3" />
 
 Process: 5ml blood sample -> add PHA to stick red cells together -> culture medium to have white cells suspension -> incubation -> add colchicine (spindle formation inhibitor) to block cells at metaphase -> nuclear membrane breaks down -> add hypotonic saline to lyse cells -> fix cells onto slides -> stain -> photograph
+
 <img width="320" height="280" alt="image" src="https://github.com/user-attachments/assets/29c5550b-14d3-41d0-ad22-8db9046a28ba" />
+
+> remmeber that karyotypes are drawn from blood, so MUST have extracted cells. If we only have DNA samples but no cell samples then we can't guarantee an intact karyotype
 
 ### G banding
 * stained by Giesma, so **enzymatic exposure to trypsin**
