@@ -4,14 +4,42 @@ Copp et al., *Nature Reviews Disease Primers* (2015). [Read the article](https:/
 
 ## Types of neural tube defects (NTDs)
 
-* **Spina bifida** = incomplete closure of the vertebral arches, sometimes with spinal cord involvement.
+* **Spina bifida** = a congenital malformation in which the spinal column is split as a result of failed closure/formation of embryonic neural tube.
   - **Occulta** → small bony gap under intact skin, usually asymptomatic.
   - **Closed spinal dysraphism** → skin-covered defect. A lipoma or tethered cord can affect neurologic function.
   - **Meningocele** → meninges + cerebrospinal fluid (CSF) protrude through the defect.
   - **Myelomeningocele (MMC)** → exposed spinal cord forms a flat **neural placode**, often on a CSF-filled sac. This is the open lesion discussed in the Primer.
+
+## Myelomeningocele
+Spinal cord is open dorsally, forming a placode -> spina bifida cystica
+
+### Clinical Features
+* motor and sensory function defect
+* lower limb weakness/paralysis
+* Urinary and faecal incontinence
+* hindbrain herniation(the Chiari II malformation)
+* associ ated hydrocephalus -> need **shunting**
+* talipes(club feet)
+* hip dislocation, scoliosis and kyphosis
+* Normally above T11 lesion less survival rate than lesion below L3
+* <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/e36ee28c-aef9-4028-b0cc-63b962fcdb77" />
+
 * **Look at Figure 1, bottom row** → follow the blue cord in each panel. In meningocele, the cord stays in the canal. In MMC, the neural placode is at the surface.
 
 <a href="assets/spina-bifida/figure-1.webp"><img src="assets/spina-bifida/figure-1.webp" width="720" alt="Figure 1. Cranial and spinal neural tube defects, including meningocele and myelomeningocele" /></a>
+
+## Epidemiology, inheritance & recurrence
+* Etiology
+  - Most NTDs are **sporadic and multifactorial** → genetic susceptibility + non-genetic factors.
+  - <10% are syndromic (eg.occur in **trisomy 13 or 18**)
+* **60–70%** = historical population heritability estimate. For a family with an affected pregnancy, the relevant number is the **empirical recurrence risk**.
+  - After **one** NTD-affected pregnancy → **~3%** for the next pregnancy.
+  - After **two** → **~10%**. The Primer also reports a **2–5%** range for siblings of an affected individual.
+* **Ascertainment matters** → birth-only counts miss prenatally diagnosed pregnancies that end in termination. EUROCAT reported **0.51 per 1,000** for spina bifida across live births, stillbirths, and terminations (2003–2007).
+* **Genetic evidence** → mouse studies implicate many neurulation genes. Human studies implicate parts of the **planar cell polarity** and **folate one-carbon metabolism** pathways. An MTHFR C677T allele is a susceptibility factor in some populations. Most cases lack a single identified genetic cause.
+* **Maternal factors highlighted in the Primer** → low folate status, pregestational diabetes, obesity, and valproate exposure. Box 1 lists other proposed associations with varying evidence.
+
+<a href="assets/spina-bifida/box-1.webp"><img src="assets/spina-bifida/box-1.webp" width="360" alt="Box 1. Potential nutritional, maternal, and environmental risk factors" /></a>
 
 ## How the defect forms
 
@@ -30,18 +58,6 @@ Copp et al., *Nature Reviews Disease Primers* (2015). [Read the article](https:/
 3. **Why repair before birth?** Covering the placode earlier may protect remaining function from the second hit.
 
 <a href="assets/spina-bifida/box-2.webp"><img src="assets/spina-bifida/box-2.webp" width="550" alt="Box 2. Human observations and animal evidence for progressive spinal cord injury" /></a>
-
-## Epidemiology, inheritance & recurrence
-
-* Most NTDs are **sporadic and multifactorial** → genetic susceptibility + non-genetic factors. A minority are syndromic, including cases associated with **trisomy 13 or 18**.
-* **60–70%** = historical population heritability estimate. For a family with an affected pregnancy, the relevant number is the **empirical recurrence risk**.
-  - After **one** NTD-affected pregnancy → **~3%** for the next pregnancy.
-  - After **two** → **~10%**. The Primer also reports a **2–5%** range for siblings of an affected individual.
-* **Ascertainment matters** → birth-only counts miss prenatally diagnosed pregnancies that end in termination. EUROCAT reported **0.51 per 1,000** for spina bifida across live births, stillbirths, and terminations (2003–2007).
-* **Genetic evidence** → mouse studies implicate many neurulation genes. Human studies implicate parts of the **planar cell polarity** and **folate one-carbon metabolism** pathways. An MTHFR C677T allele is a susceptibility factor in some populations. Most cases lack a single identified genetic cause.
-* **Maternal factors highlighted in the Primer** → low folate status, pregestational diabetes, obesity, and valproate exposure. Box 1 lists other proposed associations with varying evidence.
-
-<a href="assets/spina-bifida/box-1.webp"><img src="assets/spina-bifida/box-1.webp" width="360" alt="Box 1. Potential nutritional, maternal, and environmental risk factors" /></a>
 
 ## What changes above and below the lesion?
 
