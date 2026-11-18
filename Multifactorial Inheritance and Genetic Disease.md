@@ -14,6 +14,8 @@
   - **intermediate traits:** blending(eg.red+white -> pink flower)
   - described as **Quantitative trait** (such as height or LDL cholesterol)
     - A bell curve is a common illustration
+    - <img width="360" height="230" alt="image" src="https://github.com/user-attachments/assets/bc296fee-d96a-4ca9-8b5b-294fb98f43dc" />
+    - <img width="360" height="250" alt="image" src="https://github.com/user-attachments/assets/225a4f0a-e93f-48ba-acc3-d95ca2847891" />
 * **Polygenic:** contributions from multiple genes
 * **Multifactorial:** genetic + environmental factors
 * **Clinical distinction** — A phenotype recorded as yes/no can have multifactorial causes
