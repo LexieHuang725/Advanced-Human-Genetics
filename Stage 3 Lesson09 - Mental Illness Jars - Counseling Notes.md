@@ -1,4 +1,4 @@
-# Mental Illness Jars - Counseling Notes
+# Stage 3 - Lesson 9 Mental Illness Jars - Counseling Notes
 
 - **Source** — *Jars - updated 2020.pdf*, 34 slides. Slides credit Jehannine Austin and images by Ben Austin.
 - **Reading the screenshots** — Click any image for full size. Slide numbers refer to the supplied PDF.
