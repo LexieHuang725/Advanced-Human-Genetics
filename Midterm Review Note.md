@@ -27,9 +27,9 @@
 ### AD inheritance - normally higher de novo chance, 50% chance of offspring inheriting
 |Diseases|inheritance pattern|gene|clinical features|genetic principles|common mutation type|
 |--------|-------------------|----|------------|------------------|--------------------|
-|**Achondroplasia**|AD/de novo|FGFR3|short stature, macrocephaly, frontal bossing, midface retrusion, bowed legs|de novo, full penetrance, hottest mutation hospot, assortative mating|FGFR3 gain-off-function mutation|
+|**Achondroplasia**|AD/de novo(80%)|FGFR3|short stature, macrocephaly, frontal bossing, midface retrusion, bowed legs|de novo, full penetrance, hottest mutation hospot, assortative mating|FGFR3 gain-off-function mutation|
 |**Marfan syndrome**|AD|FBN1 -> ECM protein|CTD, **musculoskeletal** long limbs, **cardio** aortic toor dilation, **ocular** ectopia lentis|pleiotropy, variable expressivity, complete penetrance, 25% de novo|missense mutation in FBN1 gene -> Fibrillin-1 disruption affects extracellular matrix and signalling|
-|**Neurofibromatosis Type I**|AD|NF1|cafe-au-lait macules, axillary freckling, neurofibromas|50% de novo, full penetrance, variable expressivity, pleiotropy|loss-of-function mutation|
+|**Neurofibromatosis Type I**|AD/de novo(50%)|NF1|cafe-au-lait macules, axillary freckling, neurofibromas|50% de novo, full penetrance, variable expressivity, pleiotropy|loss-of-function mutation|
 |**Huntington Disease (CAG)**|AD|HTT(CAG expansion)|chorea, psychiatric symptoms, cognitive decline, adults onset|high penetrance, variable expressivity, paternal anticipation|CAG repeat expansion|
 |**Charcot-Marie-Tooth**|AD/AR/X-linked|PMP22|pes cavus(curved feet), distal atrophy, sensory loss, reduced reflexes|locus heterogeneity|duplication of an extra copy of the entire gene/**HNPP:deletion of same region**|
 | **Hereditary cancer syndromes** | **Usually AD**|BRCA1/2;FAP;PTEN;TP53|Cancer at unusually young ages; bilateral tumors; multiple primary cancers in one person; related cancers across generations; sometimes characteristic findings such as numerous colon polyps. | **Reduced and age-dependent penetrance**, variable expressivity, pleiotropy, allelic and locus heterogeneity; **two-hit hypothesis** for many tumor-suppressor genes. |**nonsense, frameshift, splice-site, missense, and large deletions/duplications**|
